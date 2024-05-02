@@ -145,6 +145,13 @@ tmdb_clean <- tmdb_clean %>%
     genre = genre_1
   )
 
+#rename imdb columns
+imdb_clean <- imdb_clean %>%
+  rename(
+    genre = genre_1
+  )
+
+
 
 # remove imdb genre columns
 imdb_clean <- imdb_clean %>%
