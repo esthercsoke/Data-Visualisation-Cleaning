@@ -1,0 +1,1248 @@
+"","title","vote_average","vote_count","release_date","revenue","runtime","adult","budget","popularity","genre","prod_company","release_year"
+"1","Inception",8.4,34495,2010-07-15,825.53,148,FALSE,160,83.95,"action","legendary pictures",2010
+"2","Interstellar",8.4,32571,2014-11-05,701.73,169,FALSE,165,140.24,"adventure","legendary pictures",2014
+"3","The Dark Knight",8.5,30619,2008-07-16,1004.56,152,FALSE,185,130.64,"drama","dc comics",2008
+"4","Avatar",7.6,29815,2009-12-15,2923.71,162,FALSE,237,79.93,"action","dune entertainment",2009
+"5","The Avengers",7.7,29166,2012-04-25,1518.82,143,FALSE,220,98.08,"science fiction","marvel studios",2012
+"6","Deadpool",7.6,28894,2016-02-09,783.1,108,FALSE,58,72.74,"action","20th century fox",2016
+"7","Avengers: Infinity War",8.3,27713,2018-04-25,2052.42,149,FALSE,300,154.34,"adventure","marvel studios",2018
+"8","Guardians of the Galaxy",7.9,26638,2014-07-30,772.78,121,FALSE,170,33.26,"action","marvel studios",2014
+"9","Harry Potter and the Philosopher's Stone",7.9,25379,2001-11-16,976.48,152,FALSE,125,185.48,"adventure","warner bros. pictures",2001
+"10","Iron Man",7.6,24874,2008-04-30,585.17,126,FALSE,140,72.9,"action","marvel studios",2008
+"11","Django Unchained",8.2,24672,2012-12-25,425.37,165,FALSE,100,54.22,"drama","the weinstein company",2012
+"12","Avengers: Endgame",8.3,23857,2019-04-24,2800,181,FALSE,356,91.76,"adventure","marvel studios",2019
+"13","Joker",8.2,23425,2019-10-01,1074.46,122,FALSE,55,54.52,"crime","warner bros. pictures",2019
+"14","The Lord of the Rings: The Fellowship of the Ring",8.4,23323,2001-12-18,871.37,179,FALSE,93,87.04,"adventure","new line cinema",2001
+"15","The Lord of the Rings: The Return of the King",8.5,22334,2003-12-01,1118.89,201,FALSE,94,99.28,"adventure","new line cinema",2003
+"16","Shutter Island",8.2,22318,2010-02-14,294.8,138,FALSE,80,56.59,"drama","phoenix pictures",2010
+"17","The Wolf of Wall Street",8,22222,2013-12-25,392,180,FALSE,100,97.44,"crime","emjag productions",2013
+"18","Avengers: Age of Ultron",7.3,21754,2015-04-22,1405.4,141,FALSE,365,96.56,"action","marvel studios",2015
+"19","Captain America: Civil War",7.4,21541,2016-04-27,1155.05,147,FALSE,250,70.74,"adventure","marvel studios",2016
+"20","The Dark Knight Rises",7.8,21335,2012-07-17,1081.04,165,FALSE,250,76.91,"action","syncopy",2012
+"21","Iron Man 3",6.9,21064,2013-04-18,1215.58,130,FALSE,200,61.06,"action","marvel studios",2013
+"22","Black Panther",7.4,21053,2018-02-13,1349.93,135,FALSE,200,43.66,"action","marvel studios",2018
+"23","Doctor Strange",7.4,20935,2016-10-25,676.34,115,FALSE,180,70.53,"action","marvel studios",2016
+"24","Mad Max: Fury Road",7.6,20911,2015-05-13,378.86,121,FALSE,150,78.32,"action","kennedy miller productions",2015
+"25","Inglourious Basterds",8.2,20746,2009-08-19,321.46,153,FALSE,70,59.16,"drama","the weinstein company",2009
+"26","The Hunger Games",7.2,20636,2012-03-12,694.39,142,FALSE,75,29.58,"science fiction","lionsgate",2012
+"27","Spider-Man: Homecoming",7.3,20507,2017-07-05,880.17,133,FALSE,175,65.88,"action","marvel studios",2017
+"28","Harry Potter and the Chamber of Secrets",7.7,20390,2002-11-13,876.69,161,FALSE,100,121.7,"adventure","warner bros. pictures",2002
+"29","Guardians of the Galaxy Vol. 2",7.6,20353,2017-04-19,863.76,137,FALSE,200,67.55,"science fiction","marvel studios",2017
+"30","The Lord of the Rings: The Two Towers",8.4,20274,2002-12-18,926.29,179,FALSE,79,78.73,"adventure","new line cinema",2002
+"31","Captain America: The First Avenger",7,20269,2011-07-22,370.57,124,FALSE,140,43.66,"action","marvel studios",2011
+"32","Suicide Squad",5.9,20097,2016-08-03,746.85,123,FALSE,175,35.36,"action","dc entertainment",2016
+"33","Harry Potter and the Prisoner of Azkaban",8,20038,2004-05-31,789.8,141,FALSE,130,124.39,"adventure","warner bros. pictures",2004
+"34","Thor",6.8,20023,2011-04-21,449.33,115,FALSE,150,51.28,"adventure","marvel studios",2011
+"35","Iron Man 2",6.8,19756,2010-04-28,623.93,124,FALSE,200,84.44,"adventure","marvel studios",2010
+"36","Batman Begins",7.7,19561,2005-06-10,374.22,140,FALSE,150,66.29,"action","warner bros. pictures",2005
+"37","Thor: Ragnarok",7.6,19539,2017-10-02,855.3,131,FALSE,180,45.2,"action","marvel studios",2017
+"38","Inside Out",7.9,19463,2015-06-09,857.61,95,FALSE,175,107.29,"animation","pixar",2015
+"39","Jurassic World",6.7,19414,2015-06-06,1671.54,124,FALSE,150,54.09,"action","amblin entertainment",2015
+"40","Harry Potter and the Goblet of Fire",7.8,19287,2005-11-16,895.92,157,FALSE,150,134.28,"adventure","warner bros. pictures",2005
+"41","Pirates of the Caribbean: The Curse of the Black Pearl",7.8,19233,2003-07-09,655.01,143,FALSE,140,80.51,"adventure","walt disney pictures",2003
+"42","Harry Potter and the Deathly Hallows: Part 2",8.1,19183,2011-07-12,1341.51,130,FALSE,125,110.97,"fantasy","warner bros. pictures",2011
+"43","Wonder Woman",7.2,18954,2017-05-30,822.85,141,FALSE,149,54.63,"action","atlas entertainment",2017
+"44","Up",7.9,18857,2009-05-28,735.1,96,FALSE,175,90.97,"animation","pixar",2009
+"45","Ant-Man",7.1,18730,2015-07-14,519.31,117,FALSE,130,37.69,"science fiction","marvel studios",2015
+"46","The Martian",7.7,18525,2015-09-30,630.6,141,FALSE,108,76,"drama","scott free productions",2015
+"47","Star Wars: The Force Awakens",7.3,18352,2015-12-15,2068.22,136,FALSE,245,66.77,"adventure","lucasfilm ltd.",2015
+"48","Spider-Man: No Way Home",8,18299,2021-12-15,1921.85,148,FALSE,200,186.06,"action","marvel studios",2021
+"49","Harry Potter and the Order of the Phoenix",7.7,18177,2007-07-08,938.21,138,FALSE,150,117.17,"adventure","warner bros. pictures",2007
+"50","Harry Potter and the Half-Blood Prince",7.7,18127,2009-07-15,933.96,153,FALSE,250,121.74,"adventure","warner bros. pictures",2009
+"51","Logan",7.8,18116,2017-02-28,619.02,137,FALSE,97,54.19,"action","hutch parker entertainment",2017
+"52","Finding Nemo",7.8,18061,2003-05-30,940.34,100,FALSE,94,55.46,"animation","pixar",2003
+"53","It",7.2,18018,2017-09-06,701.8,135,FALSE,40,74.73,"horror","new line cinema",2017
+"54","Fantastic Beasts and Where to Find Them",7.3,17892,2016-11-16,809.34,132,FALSE,180,46.1,"fantasy","heyday films",2016
+"55","Harry Potter and the Deathly Hallows: Part 1",7.8,17782,2010-11-17,954.31,146,FALSE,250,111.98,"adventure","warner bros. pictures",2010
+"56","Coco",8.2,17742,2017-10-27,800.53,105,FALSE,175,166.58,"family","pixar",2017
+"57","Captain America: The Winter Soldier",7.7,17692,2014-03-20,714.77,136,FALSE,170,31.48,"action","marvel studios",2014
+"58","Spider-Man",7.3,17653,2002-05-01,821.71,121,FALSE,139,63.48,"fantasy","marvel enterprises",2002
+"59","WALL·E",8.1,17446,2008-06-22,521.31,98,FALSE,180,58.52,"animation","pixar",2008
+"60","Gone Girl",7.9,17381,2014-10-01,369.33,149,FALSE,61,46.61,"mystery","regency enterprises",2014
+"61","The Hobbit: An Unexpected Journey",7.3,17356,2012-12-12,1021.1,169,FALSE,250,83.52,"adventure","warner bros. pictures",2012
+"62","Monsters, Inc.",7.8,17189,2001-11-01,579.71,92,FALSE,115,86.94,"animation","pixar",2001
+"63","The Revenant",7.5,17114,2015-12-25,532.95,157,FALSE,135,36.75,"western","monarchy enterprises s.a.r.l.",2015
+"64","Batman v Superman: Dawn of Justice",6,17081,2016-03-23,873.64,152,FALSE,250,78.59,"action","warner bros. pictures",2016
+"65","Gladiator",8.2,16962,2000-05-04,465.36,155,FALSE,103,53.59,"action","universal pictures",2000
+"66","The Incredibles",7.7,16584,2004-10-27,631.44,115,FALSE,92,62.61,"action","pixar",2004
+"67","Arrival",7.6,16564,2016-11-10,203.39,116,FALSE,47,47.98,"drama","filmnation entertainment",2016
+"68","Thor: The Dark World",6.5,16359,2013-10-30,644.78,112,FALSE,170,59.97,"action","marvel studios",2013
+"69","The Amazing Spider-Man",6.7,16352,2012-06-23,757.93,136,FALSE,215,78.99,"action","marvel entertainment",2012
+"70","Split",7.3,16345,2017-01-19,278.45,117,FALSE,9,44.51,"horror","universal pictures",2017
+"71","Deadpool 2",7.5,16324,2018-05-10,785.9,120,FALSE,110,66.1,"action","maximum effort",2018
+"72","Kill Bill: Vol. 1",8,16188,2003-10-10,180.91,111,FALSE,30,36.31,"action","miramax",2003
+"73","The Hunger Games: Catching Fire",7.4,16182,2013-11-15,865.01,146,FALSE,130,49.86,"adventure","lionsgate",2013
+"74","Get Out",7.6,16081,2017-02-24,255.41,104,FALSE,4.5,36.44,"mystery","monkeypaw productions",2017
+"75","The Imitation Game",8,15973,2014-11-14,233.56,113,FALSE,14,47.49,"history","bristol automotive",2014
+"76","Bohemian Rhapsody",8,15965,2018-10-24,903.99,135,FALSE,52,37.55,"music","gk films",2018
+"77","The Maze Runner",7.2,15901,2014-09-10,348.32,113,FALSE,34,83.21,"action","ingenious media",2014
+"78","The Hangover",7.3,15812,2009-06-02,469.31,100,FALSE,35,72.66,"comedy","legendary pictures",2009
+"79","Shrek",7.7,15765,2001-05-18,487.85,90,FALSE,60,94.46,"animation","dreamworks pictures",2001
+"80","Ratatouille",7.8,15728,2007-06-28,623.73,111,FALSE,150,82.49,"animation","pixar",2007
+"81","Kingsman: The Secret Service",7.6,15664,2014-12-13,414.35,129,FALSE,81,56.29,"crime","20th century fox",2014
+"82","La La Land",7.9,15625,2016-11-29,447.41,129,FALSE,30,32.01,"comedy","summit entertainment",2016
+"83","Frozen",7.2,15520,2013-11-20,1274.22,102,FALSE,150,85.79,"animation","walt disney pictures",2013
+"84","Dunkirk",7.5,15464,2017-07-19,527,107,FALSE,150,34.53,"war","warner bros. pictures",2017
+"85","Zootopia",7.7,15230,2016-02-11,1023.78,109,FALSE,150,98.11,"animation","walt disney animation studios",2016
+"86","Lucy",6.4,15181,2014-07-25,458.86,89,FALSE,40,33.91,"action","europacorp",2014
+"87","Beauty and the Beast",7,14871,2017-03-16,1266.12,129,FALSE,160,56.23,"family","walt disney pictures",2017
+"88","Pirates of the Caribbean: Dead Man's Chest",7.3,14868,2006-07-06,1065.66,151,FALSE,200,69.4,"adventure","walt disney pictures",2006
+"89","Big Hero 6",7.7,14732,2014-10-24,657.83,102,FALSE,165,98.41,"adventure","walt disney pictures",2014
+"90","Now You See Me",7.3,14726,2013-05-29,351.72,116,FALSE,75,45.24,"thriller","summit entertainment",2013
+"91","The Hunger Games: Mockingjay - Part 1",6.8,14725,2014-11-19,755.36,123,FALSE,125,85.89,"science fiction","lionsgate",2014
+"92","Venom",6.8,14724,2018-09-28,856.09,112,FALSE,116,48.65,"science fiction","matt tolmach productions",2018
+"93","The Prestige",8.2,14696,2006-10-19,109.68,130,FALSE,40,48.83,"drama","warner bros. pictures",2006
+"94","I Am Legend",7.2,14675,2007-12-12,585.41,101,FALSE,150,59.81,"drama","village roadshow pictures",2007
+"95","Captain Marvel",6.8,14657,2019-03-06,1131.42,124,FALSE,152,50.4,"action","marvel studios",2019
+"96","Baby Driver",7.5,14634,2017-06-28,226.95,113,FALSE,34,44.97,"action","big talk productions",2017
+"97","Spider-Man: Far From Home",7.4,14495,2019-06-28,1131.93,129,FALSE,160,49.91,"action","marvel studios",2019
+"98","Skyfall",7.2,14466,2012-10-24,1142.47,143,FALSE,200,33.46,"action","metro-goldwyn-mayer",2012
+"99","Gravity",7.2,14463,2013-10-03,723.19,91,FALSE,105,31.02,"science fiction","esperanto filmoj",2013
+"100","X-Men: Days of Future Past",7.5,14433,2014-05-15,747.86,132,FALSE,250,60.19,"action","bad hat harry productions",2014
+"101","Ready Player One",7.6,14430,2018-03-28,607.27,140,FALSE,175,50.09,"adventure","amblin entertainment",2018
+"102","World War Z",6.8,14409,2013-06-20,531.86,116,FALSE,200,55.04,"action","gk films",2013
+"103","Catch Me If You Can",8,14393,2002-12-16,352.11,141,FALSE,52,44.81,"drama","parkes/macdonald productions",2002
+"104","Rogue One: A Star Wars Story",7.5,14354,2016-12-14,1056.06,133,FALSE,200,33.1,"action","lucasfilm ltd.",2016
+"105","Star Wars: The Last Jedi",6.8,14312,2017-12-13,1332.7,152,FALSE,200,47.24,"adventure","lucasfilm ltd.",2017
+"106","Man of Steel",6.6,14310,2013-06-12,668.05,143,FALSE,225,44.96,"action","dc entertainment",2013
+"107","Despicable Me",7.2,14147,2010-07-08,533.68,95,FALSE,69,47.42,"family","illumination",2010
+"108","Spider-Man 2",7.3,14096,2004-06-25,788.98,127,FALSE,200,24.17,"action","marvel enterprises",2004
+"109","Spider-Man: Into the Spider-Verse",8.4,14024,2018-12-06,375.46,117,FALSE,90,80.67,"action","columbia pictures",2018
+"110","Charlie and the Chocolate Factory",7,13967,2005-07-13,474.97,115,FALSE,150,60.85,"adventure","the zanuck company",2005
+"111","The Departed",8.2,13792,2006-10-04,291.46,151,FALSE,90,42.5,"drama","vertigo entertainment",2006
+"112","The Grand Budapest Hotel",8,13787,2014-02-26,174.6,100,FALSE,30,33.97,"comedy","fox searchlight pictures",2014
+"113","Toy Story 3",7.8,13777,2010-06-16,1066.97,103,FALSE,200,69.14,"animation","pixar",2010
+"114","Black Swan",7.7,13567,2010-12-03,329.4,108,FALSE,13,34.93,"drama","fox searchlight pictures",2010
+"115","V for Vendetta",7.9,13556,2006-02-23,132.51,132,FALSE,54,42.17,"action","studio babelsberg",2006
+"116","Pirates of the Caribbean: At World's End",7.2,13345,2007-05-19,961,169,FALSE,300,81.88,"adventure","jerry bruckheimer films",2007
+"117","The Hobbit: The Battle of the Five Armies",7.3,13301,2014-12-10,956.02,144,FALSE,250,94.05,"action","warner bros. pictures",2014
+"118","The Hateful Eight",7.7,13291,2015-12-25,155.76,188,FALSE,44,32.12,"drama","the weinstein company",2015
+"119","Sherlock Holmes",7.2,13170,2009-12-23,524.03,129,FALSE,90,35.81,"action","warner bros. pictures",2009
+"120","Alice in Wonderland",6.6,13149,2010-03-03,1025.47,108,FALSE,200,56.34,"family","walt disney pictures",2010
+"121","Pirates of the Caribbean: On Stranger Tides",6.5,13126,2011-05-15,1045.71,137,FALSE,379,79.19,"adventure","walt disney pictures",2011
+"122","Spider-Man 3",6.4,13098,2007-05-01,894.98,139,FALSE,258,61.15,"fantasy","laura ziskin productions",2007
+"123","A Quiet Place",7.4,13079,2018-04-03,341,91,FALSE,17,38,"horror","paramount",2018
+"124","Aquaman",6.9,12965,2018-12-07,1148.53,143,FALSE,160,52.47,"action","warner bros. pictures",2018
+"125","Kill Bill: Vol. 2",7.9,12916,2004-04-16,152.16,136,FALSE,30,37.05,"action","super cool manchu",2004
+"126","Cars",6.9,12906,2006-06-08,461.98,117,FALSE,120,47.45,"animation","pixar",2006
+"127","Edge of Tomorrow",7.6,12828,2014-05-27,370.54,114,FALSE,178,51.41,"action","ratpac entertainment",2014
+"128","300",7.2,12812,2007-03-07,456.08,117,FALSE,65,44.92,"action","virtual studios",2007
+"129","Jumanji: Welcome to the Jungle",6.8,12796,2017-12-09,995.34,119,FALSE,90,26.67,"adventure","radar pictures",2017
+"130","Star Wars: Episode III - Revenge of the Sith",7.4,12753,2005-05-17,850,140,FALSE,113,41.22,"adventure","lucasfilm ltd.",2005
+"131","Hacksaw Ridge",8.2,12668,2016-10-07,175.3,139,FALSE,40,74.99,"drama","vendian entertainment",2016
+"132","Twilight",6.3,12638,2008-11-20,393.62,122,FALSE,37,71.54,"fantasy","summit entertainment",2008
+"133","Brave",7,12591,2012-06-21,538.98,93,FALSE,185,58.65,"animation","walt disney pictures",2012
+"134","Ant-Man and the Wasp",7,12512,2018-07-04,622.67,119,FALSE,140,34.8,"action","marvel studios",2018
+"135","Maleficent",7.1,12477,2014-05-28,758.54,97,FALSE,180,51.06,"fantasy","walt disney pictures",2014
+"136","Passengers",6.9,12429,2016-12-21,303.14,116,FALSE,110,27.27,"drama","wanda pictures",2016
+"137","Life of Pi",7.4,12426,2012-11-20,609.02,127,FALSE,120,37.8,"adventure","fox 2000 pictures",2012
+"138","The Amazing Spider-Man 2",6.5,12349,2014-04-16,708.96,141,FALSE,200,73.32,"action","marvel entertainment",2014
+"139","Blade Runner 2049",7.5,12331,2017-10-04,259.24,164,FALSE,150,70.54,"science fiction","torridon films",2017
+"140","Ice Age",7.3,12296,2002-03-10,383.26,81,FALSE,59,70.77,"animation","20th century fox animation",2002
+"141","Star Wars: Episode II - Attack of the Clones",6.6,12288,2002-05-15,649.4,142,FALSE,120,42.55,"adventure","lucasfilm ltd.",2002
+"142","Justice League",6.1,12263,2017-11-15,657.93,120,FALSE,300,91.09,"action","ratpac entertainment",2017
+"143","The Hobbit: The Desolation of Smaug",7.6,12255,2013-12-11,958.4,161,FALSE,250,70.03,"fantasy","warner bros. pictures",2013
+"144","Once Upon a Time… in Hollywood",7.4,12237,2019-07-24,374.25,162,FALSE,95,47.71,"comedy","heyday films",2019
+"145","X-Men: Apocalypse",6.5,12215,2016-05-18,543.93,144,FALSE,178,45.54,"action","the donners' company",2016
+"146","Birdman or (The Unexpected Virtue of Ignorance)",7.5,12157,2014-10-17,103.22,120,FALSE,18,43.87,"drama","tsg entertainment",2014
+"147","Divergent",6.9,12118,2014-03-14,288.89,139,FALSE,85,39.07,"action","summit entertainment",2014
+"148","American Sniper",7.4,12107,2014-12-25,542.31,133,FALSE,58.8,64.85,"war","ratpac entertainment",2014
+"149","How to Train Your Dragon",7.8,12089,2010-03-18,494.88,98,FALSE,165,54.18,"fantasy","dreamworks animation",2010
+"150","Incredibles 2",7.5,12061,2018-06-14,1242.81,118,FALSE,200,49.22,"action","walt disney pictures",2018
+"151","John Wick: Chapter 2",7.3,12007,2017-02-08,171.54,122,FALSE,40,88.28,"action","thunder road",2017
+"152","X-Men: First Class",7.3,11986,2011-06-01,353.62,132,FALSE,160,1.66,"action","the donners' company",2011
+"153","The Curious Case of Benjamin Button",7.6,11899,2008-12-25,335.8,166,FALSE,150,42.67,"drama","paramount",2008
+"154","Pacific Rim",6.9,11567,2013-07-11,411,131,FALSE,180,55.85,"action","double dare you productions",2013
+"155","The Hunger Games: Mockingjay - Part 2",6.9,11557,2015-11-18,653.43,137,FALSE,160,43.9,"action","lionsgate",2015
+"156","Wreck-It Ralph",7.3,11546,2012-11-01,471.22,101,FALSE,165,46.62,"family","walt disney animation studios",2012
+"157","Ted",6.4,11513,2012-06-29,549.37,107,FALSE,50,38.48,"comedy","universal pictures",2012
+"158","The Great Gatsby",7.4,11505,2013-05-09,351.04,143,FALSE,105,36.65,"drama","spectrum films",2013
+"159","Moana",7.6,11502,2016-10-13,690.86,107,FALSE,150,17.96,"adventure","walt disney pictures",2016
+"160","The Shape of Water",7.2,11490,2017-12-01,195.33,123,FALSE,19.5,29.34,"drama","double dare you productions",2017
+"161","Zombieland",7.3,11466,2009-10-07,102.39,88,FALSE,23.6,32.08,"comedy","pariah",2009
+"162","Finding Dory",7,11429,2016-06-16,1028.57,97,FALSE,200,26.56,"adventure","pixar",2016
+"163","Me Before You",7.9,11414,2016-06-01,207.95,110,FALSE,20,79.74,"drama","new line cinema",2016
+"164","1917",8,11395,2019-12-25,394.64,119,FALSE,100,44.36,"war","dreamworks pictures",2019
+"165","Silver Linings Playbook",7.1,11327,2012-11-16,236.41,122,FALSE,21,28.01,"drama","the weinstein company",2012
+"166","Shrek 2",7.2,11323,2004-05-19,928.76,93,FALSE,150,82.15,"animation","dreamworks pictures",2004
+"167","2012",5.8,11300,2009-10-10,791.22,158,FALSE,200,51.91,"action","columbia pictures",2009
+"168","Prometheus",6.5,11255,2012-05-30,403.35,124,FALSE,130,60.3,"science fiction","dune entertainment",2012
+"169","The Social Network",7.4,11190,2010-10-01,224.92,121,FALSE,40,36.1,"drama","columbia pictures",2010
+"170","Pirates of the Caribbean: Dead Men Tell No Tales",6.6,11176,2017-05-23,795.92,128,FALSE,230,62.01,"adventure","walt disney pictures",2017
+"171","Knives Out",7.8,11156,2019-11-27,312.9,131,FALSE,40,39.06,"comedy","lionsgate",2019
+"172","Fifty Shades of Grey",5.9,11101,2015-02-11,571.01,125,FALSE,40,96.28,"drama","focus features",2015
+"173","The Devil Wears Prada",7.4,11089,2006-06-29,326.71,109,FALSE,35,50.84,"comedy","fox 2000 pictures",2006
+"174","A Star Is Born",7.5,11079,2018-10-03,433.89,136,FALSE,36,27.89,"music","thunder road",2018
+"175","Fury",7.5,11021,2014-10-15,211.82,135,FALSE,68,90.38,"war","columbia pictures",2014
+"176","The Incredible Hulk",6.2,11006,2008-06-12,163.71,114,FALSE,150,52.73,"science fiction","marvel studios",2008
+"177","I, Robot",6.9,10972,2004-07-15,347.23,115,FALSE,120,27.68,"action","davis entertainment",2004
+"178","No Country for Old Men",7.9,10964,2007-06-13,171.63,122,FALSE,25,33.12,"crime","miramax",2007
+"179","Rise of the Planet of the Apes",7.3,10799,2011-08-03,482.86,105,FALSE,93,38.03,"thriller","dune entertainment iii",2011
+"180","Ocean's Eleven",7.4,10774,2001-12-07,450.72,116,FALSE,85,39.17,"thriller","village roadshow pictures",2001
+"181","Prisoners",8.1,10748,2013-09-19,122.13,153,FALSE,46,35.08,"drama","madhouse entertainment",2013
+"182","The Conjuring",7.5,10683,2013-07-18,320.41,112,FALSE,13,105.39,"horror","evergreen media group",2013
+"183","The Fault in Our Stars",7.6,10655,2014-05-16,307.17,126,FALSE,14,30.21,"romance","tsg entertainment",2014
+"184","The Notebook",7.9,10629,2004-06-25,115.6,123,FALSE,29,55.48,"romance","new line cinema",2004
+"185","12 Years a Slave",7.9,10603,2013-10-18,187,134,FALSE,20,34.81,"drama","new regency pictures",2013
+"186","In Time",7,10556,2011-10-27,173.93,109,FALSE,40,67.24,"action","new regency pictures",2011
+"187","Green Book",8.2,10542,2018-11-16,319.7,130,FALSE,23,34.77,"drama","participant",2018
+"188","Tangled",7.6,10539,2010-11-24,592.46,100,FALSE,260,84.14,"animation","walt disney animation studios",2010
+"189","Cast Away",7.7,10531,2000-12-22,429.63,143,FALSE,90,32.39,"adventure","playtone",2000
+"190","X-Men",7,10530,2000-07-13,296.34,104,FALSE,75,1.26,"adventure","the donners' company",2000
+"191","Despicable Me 2",6.9,10523,2013-06-26,970.76,98,FALSE,76,46.28,"animation","illumination",2013
+"192","Kung Fu Panda",7.2,10503,2008-06-04,631.74,90,FALSE,130,52.87,"action","dreamworks animation",2008
+"193","Transformers",6.8,10477,2007-06-27,709.71,143,FALSE,150,10.17,"adventure","dreamworks pictures",2007
+"194","Taken",7.4,10432,2008-02-18,226.83,94,FALSE,25,58.65,"action","wintergreen productions",2008
+"195","Jurassic World: Fallen Kingdom",6.5,10431,2018-06-22,1310.47,129,FALSE,170,44.37,"action","amblin entertainment",2018
+"196","Dawn of the Planet of the Apes",7.3,10321,2014-06-26,710.64,130,FALSE,170,59.34,"science fiction","tsg entertainment",2014
+"197","Fantastic Beasts: The Crimes of Grindelwald",6.9,10203,2018-11-14,654.86,134,FALSE,200,29.78,"fantasy","warner bros. pictures",2018
+"198","Now You See Me 2",6.8,10172,2016-06-02,334.9,129,FALSE,90,33.75,"crime","summit entertainment",2016
+"199","The Matrix Reloaded",7,10128,2003-05-15,738.6,138,FALSE,150,44.6,"adventure","village roadshow pictures",2003
+"200","Madagascar",6.9,10103,2005-05-25,542.06,86,FALSE,75,54.83,"family","dreamworks pictures",2005
+"201","The Theory of Everything",7.9,10069,2014-11-26,123.73,123,FALSE,15,20.87,"drama","working title films",2014
+"202","Fast & Furious 6",6.8,10021,2013-05-21,788.68,131,FALSE,160,6.26,"action","universal pictures",2013
+"203","Oblivion",6.6,10015,2013-04-10,286.17,124,FALSE,120,30.9,"action","universal pictures",2013
+"204","Bruce Almighty",6.7,10010,2003-05-23,484.59,101,FALSE,80,33.91,"fantasy","pit bull productions",2003
+"205","Gran Torino",8,10003,2008-12-12,269.96,116,FALSE,33,35.85,"drama","matten productions",2008
+"206","Furious 7",7.2,9988,2015-04-01,1515.34,137,FALSE,190,62.28,"action","original film",2015
+"207","Minions",6.4,9969,2015-06-17,1156.73,91,FALSE,74,26.41,"family","illumination",2015
+"208","Casino Royale",7.5,9959,2006-11-14,599.05,144,FALSE,150,43.41,"adventure","eon productions",2006
+"209","Slumdog Millionaire",7.7,9916,2008-11-12,378.41,120,FALSE,15,22.97,"drama","celador films",2008
+"210","Monsters University",7,9903,2013-06-19,743.56,104,FALSE,200,44.12,"animation","pixar",2013
+"211","Limitless",7.2,9900,2011-03-08,161.85,105,FALSE,27,33.38,"thriller","relativity media",2011
+"212","Spectre",6.5,9893,2015-10-26,880.67,148,FALSE,245,33.6,"action","columbia pictures",2015
+"213","Avatar: The Way of Water",7.7,9830,2022-12-14,2320.25,192,FALSE,460,241.28,"science fiction","20th century studios",2022
+"214","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",7.1,9808,2005-12-07,745.01,143,FALSE,180,123.54,"adventure","walt disney pictures",2005
+"215","X-Men Origins: Wolverine",6.3,9797,2009-04-28,373.06,107,FALSE,150,4.32,"adventure","the donners' company",2009
+"216","The Hangover Part II",6.5,9789,2011-05-25,586.76,102,FALSE,80,51.81,"comedy","legendary pictures",2011
+"217","Sherlock Holmes: A Game of Shadows",7.1,9742,2011-11-22,334.62,129,FALSE,125,31.5,"adventure","warner bros. pictures",2011
+"218","The Fate of the Furious",6.9,9719,2017-04-12,1236.01,136,FALSE,250,56.12,"action","original film",2017
+"219","John Wick: Chapter 3 - Parabellum",7.4,9711,2019-05-15,326.71,131,FALSE,55,80.83,"action","thunder road",2019
+"220","Kong: Skull Island",6.5,9696,2017-03-08,566.65,118,FALSE,185,39.51,"action","legendary pictures",2017
+"221","Men in Black 3",6.5,9675,2012-05-23,624.03,106,FALSE,225,35.5,"action","columbia pictures",2012
+"222","Maze Runner: The Scorch Trials",6.7,9669,2015-09-09,312.3,131,FALSE,61,42.49,"science fiction","temple hill entertainment",2015
+"223","Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",7,9654,2020-02-05,205.37,108,FALSE,75,49.33,"action","warner bros. pictures",2020
+"224","21 Jump Street",6.9,9650,2012-03-14,201.59,109,FALSE,42,31.41,"action","columbia pictures",2012
+"225","Mr. & Mrs. Smith",6.7,9576,2005-06-07,487.29,120,FALSE,110,32.55,"action","epsilon motion pictures",2005
+"226","Kingsman: The Golden Circle",7,9560,2017-09-20,410.9,141,FALSE,104,47.36,"action","20th century fox",2017
+"227","Night at the Museum",6.6,9538,2006-12-20,574.48,108,FALSE,110,39.7,"action","1492 pictures",2006
+"228","Insurgent",6.4,9494,2015-03-18,297,119,FALSE,110,38.03,"action","summit entertainment",2015
+"229","A Beautiful Mind",7.9,9475,2001-12-11,316.8,135,FALSE,58,36.25,"drama","universal pictures",2001
+"230","Soul",8.2,9473,2020-12-25,136.38,101,FALSE,150,48.88,"animation","walt disney pictures",2020
+"231","Aladdin",7.1,9441,2019-05-22,1054.3,127,FALSE,183,69.61,"adventure","walt disney pictures",2019
+"232","Dune",7.8,9420,2021-09-15,402.03,155,FALSE,165,75.85,"science fiction","legendary pictures",2021
+"233","Three Billboards Outside Ebbing, Missouri",8.1,9418,2017-12-01,160.19,115,FALSE,15,23.36,"crime","blueprint pictures",2017
+"234","X2",7,9417,2003-04-27,407.71,133,FALSE,110,1.16,"adventure","the donners' company",2003
+"235","Miss Peregrine's Home for Peculiar Children",6.8,9401,2016-09-27,296.48,127,FALSE,110,39.95,"fantasy","big screen productions",2016
+"236","Troy",7.1,9376,2004-05-13,497.41,163,FALSE,175,55.47,"adventure","warner bros. pictures",2004
+"237","The Lion King",7.1,9325,2019-07-12,1663.08,118,FALSE,260,63.35,"adventure","walt disney pictures",2019
+"238","Star Trek",7.4,9314,2009-05-06,385.68,127,FALSE,150,43.38,"science fiction","paramount",2009
+"239","Black Widow",7.3,9298,2021-07-07,379.75,134,FALSE,200,56.26,"action","marvel studios",2021
+"240","Murder on the Orient Express",6.7,9243,2017-11-03,352.79,114,FALSE,55,37.49,"mystery","the mark gordon company",2017
+"241","Men in Black II",6.4,9234,2002-07-03,445.14,88,FALSE,140,32.56,"action","columbia pictures",2002
+"242","Mission: Impossible - Ghost Protocol",7.1,9215,2011-12-07,694.71,133,FALSE,145,59.65,"action","paramount",2011
+"243","The Fast and the Furious",7,9207,2001-06-22,207.28,106,FALSE,38,5.4,"action","ardustry entertainment",2001
+"244","Venom: Let There Be Carnage",6.8,9182,2021-09-30,506.86,97,FALSE,110,89.98,"science fiction","marvel entertainment",2021
+"245","The Pursuit of Happyness",7.9,9159,2006-12-14,307.08,117,FALSE,55,42.15,"drama","escape artists",2006
+"246","The Matrix Revolutions",6.7,9118,2003-11-05,424.99,129,FALSE,150,33.43,"adventure","village roadshow pictures",2003
+"247","Toy Story 4",7.5,9093,2019-06-19,1073.39,100,FALSE,175,61.08,"family","walt disney pictures",2019
+"248","Ice Age: The Meltdown",6.7,9085,2006-03-29,661,91,FALSE,80,54.38,"animation","20th century fox animation",2006
+"249","Godzilla vs. Kong",7.7,9080,2021-03-24,470.12,114,FALSE,200,99,"action","legendary pictures",2021
+"250","Frozen II",7.3,9060,2019-11-20,1450.03,103,FALSE,150,70.22,"family","walt disney pictures",2019
+"251","Star Wars: The Rise of Skywalker",6.4,9047,2019-12-18,1074.14,142,FALSE,250,89.7,"adventure","lucasfilm ltd.",2019
+"252","X-Men: The Last Stand",6.4,8988,2006-05-24,459.36,104,FALSE,210,1.07,"adventure","the donners' company",2006
+"253","The Wolverine",6.4,8967,2013-07-23,415.44,126,FALSE,120,7.8,"action","the donners' company",2013
+"254","Hidden Figures",8.1,8958,2016-12-10,235.96,127,FALSE,25,70.3,"drama","fox 2000 pictures",2016
+"255","Hancock",6.3,8953,2008-07-01,629.44,92,FALSE,150,29.81,"fantasy","gh three",2008
+"256","How to Train Your Dragon 2",7.7,8929,2014-06-05,621.54,102,FALSE,145,42.8,"fantasy","dreamworks animation",2014
+"257","Sonic the Hedgehog",7.3,8901,2020-02-12,319.72,99,FALSE,85,53.71,"action","original film",2020
+"258","Million Dollar Baby",8,8874,2004-12-15,216.76,132,FALSE,30,20.72,"drama","lakeshore entertainment",2004
+"259","The Greatest Showman",7.9,8844,2017-12-20,432.84,105,FALSE,84,33.35,"drama","chernin entertainment",2017
+"260","Shazam!",7,8840,2019-03-29,366.08,132,FALSE,80,32.76,"action","new line cinema",2019
+"261","Fantastic Four",5.8,8765,2005-06-29,333.54,106,FALSE,100,23.57,"action","kumar mobiliengesellschaft mbh & co. projekt nr. 3 kg",2005
+"262","Tenet",7.2,8744,2020-08-22,365.3,150,FALSE,205,44.02,"action","warner bros. pictures",2020
+"263","District 9",7.4,8721,2009-08-05,210.82,112,FALSE,30,35.71,"science fiction","tristar pictures",2009
+"264","The Da Vinci Code",6.7,8646,2006-05-17,767.82,149,FALSE,125,30.6,"thriller","imagine entertainment",2006
+"265","The Bourne Identity",7.5,8618,2002-06-14,214.03,119,FALSE,60,31.22,"action","universal pictures",2002
+"266","The Twilight Saga: New Moon",6,8614,2009-11-18,709.83,131,FALSE,50,43.69,"adventure","summit entertainment",2009
+"267","Encanto",7.6,8611,2021-10-13,253,102,FALSE,50,147.12,"animation","walt disney animation studios",2021
+"268","Unbreakable",7.1,8607,2000-11-22,248.12,106,FALSE,75,23.98,"thriller","limited edition productions inc.",2000
+"269","Star Trek Into Darkness",7.3,8589,2013-05-05,467.37,132,FALSE,190,35.9,"action","bad robot",2013
+"270","The Batman",7.7,8584,2022-03-01,770.95,177,FALSE,185,100.82,"crime","6th & idaho",2022
+"271","xXx: Return of Xander Cage",6.1,8541,2017-01-13,346.15,107,FALSE,85,60.06,"action","rox productions",2017
+"272","Cruella",8.1,8507,2021-05-26,233.5,134,FALSE,200,77.79,"comedy","walt disney pictures",2021
+"273","Watchmen",7.3,8485,2009-03-04,185.26,163,FALSE,130,52.38,"action","dc comics",2009
+"274","Shang-Chi and the Legend of the Ten Rings",7.6,8481,2021-09-01,432.24,132,FALSE,150,89.76,"action","marvel studios",2021
+"275","Alita: Battle Angel",7.2,8450,2019-01-31,404.98,122,FALSE,170,47.67,"action","troublemaker studios",2019
+"276","Godzilla",6.3,8360,2014-05-14,529.08,123,FALSE,160,44.15,"action","legendary pictures",2014
+"277","The Twilight Saga: Breaking Dawn - Part 2",6.5,8352,2012-11-13,829.75,115,FALSE,120,60.8,"adventure","summit entertainment",2012
+"278","The Pianist",8.4,8351,2002-09-17,120.07,150,FALSE,35,49.53,"drama","canal+ polska",2002
+"279","Saw",7.4,8327,2004-10-01,103.91,103,FALSE,1.2,174.78,"horror","twisted pictures",2004
+"280","The Big Short",7.3,8320,2015-12-11,133.35,131,FALSE,28,34.35,"comedy","plan b entertainment",2015
+"281","Shrek the Third",6.3,8318,2007-05-17,813.37,93,FALSE,160,60.82,"fantasy","dreamworks animation",2007
+"282","We're the Millers",6.8,8306,2013-08-07,269.99,110,FALSE,37,32.29,"comedy","vincent newman entertainment",2013
+"283","The Twilight Saga: Breaking Dawn - Part 1",6.2,8228,2011-11-16,712.17,117,FALSE,110,79.87,"adventure","summit entertainment",2011
+"284","The Twilight Saga: Eclipse",6.2,8226,2010-06-23,698.49,124,FALSE,68,55.6,"adventure","summit entertainment",2010
+"285","Elysium",6.5,8224,2013-08-07,286.14,109,FALSE,115,29.22,"science fiction","genre films",2013
+"286","Corpse Bride",7.5,8216,2005-09-12,118.13,77,FALSE,40,77.94,"romance","tim burton productions",2005
+"287","Mission: Impossible - Rogue Nation",7.2,8182,2015-07-23,682.72,131,FALSE,150,64.81,"action","paramount",2015
+"288","The Equalizer",7.2,8145,2014-09-24,192.33,132,FALSE,55,186.61,"thriller","lonetree entertainment",2014
+"289","The King's Speech",7.7,8145,2010-11-26,414.21,118,FALSE,15,29.83,"drama","the weinstein company",2010
+"290","The Hangover Part III",6.2,8097,2013-05-23,362,100,FALSE,103,48.63,"comedy","green hat films",2013
+"291","Hotel Transylvania",7,8037,2012-09-20,358.38,91,FALSE,85,50.39,"animation","columbia pictures",2012
+"292","San Andreas",6.2,8036,2015-05-27,473.99,114,FALSE,110,142.74,"action","new line cinema",2015
+"293","War for the Planet of the Apes",7.2,8030,2017-07-11,490.72,140,FALSE,150,41.09,"drama","20th century fox",2017
+"294","It Chapter Two",6.9,8021,2019-09-04,473.12,169,FALSE,79,72.55,"horror","new line cinema",2019
+"295","Minority Report",7.3,8013,2002-06-20,358.37,145,FALSE,102,30.06,"action","digital image associates",2002
+"296","Doctor Strange in the Multiverse of Madness",7.4,7991,2022-05-04,955.78,126,FALSE,200,96.53,"fantasy","marvel studios",2022
+"297","Transformers: Revenge of the Fallen",6.2,7939,2009-06-19,836.3,149,FALSE,200,14.17,"science fiction","dreamworks pictures",2009
+"298","Jumanji: The Next Level",6.9,7932,2019-12-04,801.69,123,FALSE,125,38.77,"adventure","columbia pictures",2019
+"299","Mean Girls",7.2,7931,2004-04-30,130.13,97,FALSE,17,56.33,"comedy","broadway video",2004
+"300","Solo: A Star Wars Story",6.6,7904,2018-05-15,392.95,135,FALSE,250,55.76,"science fiction","lucasfilm ltd.",2018
+"301","Terminator Genisys",5.9,7870,2015-06-23,440.6,126,FALSE,155,67.34,"science fiction","skydance",2015
+"302","Wonder Woman 1984",6.5,7835,2020-12-16,169.6,151,FALSE,200,48.13,"action","warner bros. pictures",2020
+"303","Alien: Covenant",6.1,7822,2017-05-09,240.89,122,FALSE,97,92.53,"science fiction","scott free productions",2017
+"304","Glass",6.7,7793,2019-01-16,247,129,FALSE,20,31.84,"thriller","universal pictures",2019
+"305","Ocean's Eight",7,7780,2018-06-07,297.72,111,FALSE,70,30.27,"crime","village roadshow pictures",2018
+"306","Crazy, Stupid, Love.",7.3,7773,2011-07-29,145.08,118,FALSE,50,39.84,"comedy","warner bros. pictures",2011
+"307","The Conjuring 2",7.3,7769,2016-06-08,321.83,134,FALSE,40,80.98,"horror","new line cinema",2016
+"308","Argo",7.3,7750,2012-10-11,232.33,120,FALSE,44.5,17.55,"drama","gk films",2012
+"309","Transformers: Dark of the Moon",6.2,7736,2011-06-28,1123.79,154,FALSE,195,10.5,"action","paramount",2011
+"310","War of the Worlds",6.5,7728,2005-06-28,603.87,117,FALSE,132,40.93,"adventure","paramount",2005
+"311","Source Code",7.3,7694,2011-03-30,147.33,94,FALSE,32,31.92,"thriller","the mark gordon company",2011
+"312","The Suicide Squad",7.6,7692,2021-07-28,168.72,132,FALSE,185,63.19,"action","dc films",2021
+"313","Ice Age: Dawn of the Dinosaurs",6.7,7680,2009-06-26,886.69,94,FALSE,90,57.65,"animation","blue sky studios",2009
+"314","The Jungle Book",6.9,7668,2016-04-07,966.55,106,FALSE,175,33.27,"family","walt disney pictures",2016
+"315","The Secret Life of Pets",6.3,7664,2016-06-18,875.46,86,FALSE,75,13.02,"adventure","illumination",2016
+"316","Free Guy",7.6,7662,2021-08-11,331.53,115,FALSE,110,62.6,"comedy","berlanti productions",2021
+"317","Indiana Jones and the Kingdom of the Crystal Skull",6,7629,2008-05-21,786.64,122,FALSE,185,47.91,"adventure","paramount",2008
+"318","Fast Five",7.3,7581,2011-04-20,626.14,130,FALSE,125,8.59,"action","original film",2011
+"319","Transformers: Age of Extinction",5.9,7581,2014-06-25,1104.05,165,FALSE,210,57.58,"science fiction","di bonaventura pictures",2014
+"320","Ghost in the Shell",6.1,7581,2017-03-29,169.8,107,FALSE,110,32.85,"science fiction","weying galaxy entertainment",2017
+"321","Real Steel",7,7571,2011-09-28,299.27,127,FALSE,110,88.18,"action","touchstone pictures",2011
+"322","Bad Boys for Life",7.1,7570,2020-01-15,426.51,124,FALSE,90,46.62,"thriller","columbia pictures",2020
+"323","Top Gun: Maverick",8.3,7546,2022-05-24,1488.73,131,FALSE,170,126.29,"action","skydance",2022
+"324","Baywatch",6.1,7545,2017-05-25,177.86,116,FALSE,69,45.12,"comedy","uncharted",2017
+"325","Sin City",7.4,7541,2005-04-01,158.73,124,FALSE,40,42.37,"thriller","dimension films",2005
+"326","The Help",8.2,7538,2011-08-09,216.64,146,FALSE,25,52.14,"drama","1492 pictures",2011
+"327","Mission: Impossible - Fallout",7.4,7537,2018-07-13,791.66,147,FALSE,178,61.26,"action","paramount",2018
+"328","Fifty Shades Freed",6.7,7511,2018-01-17,368.31,105,FALSE,55,93.39,"drama","universal pictures",2018
+"329","Snow White and the Huntsman",6,7503,2012-05-30,396.6,127,FALSE,170,34.98,"adventure","universal pictures",2012
+"330","Eternals",6.9,7493,2021-11-03,402.06,156,FALSE,200,60.52,"science fiction","marvel studios",2021
+"331","22 Jump Street",6.8,7460,2014-06-05,331.33,112,FALSE,50,23.37,"crime","columbia pictures",2014
+"332","Sing",7.1,7458,2016-11-23,634.15,108,FALSE,75,45.87,"animation","illumination",2016
+"333","Chappie",6.8,7438,2015-03-04,104.4,120,FALSE,49,34.71,"crime","columbia pictures",2015
+"334","The Day After Tomorrow",6.5,7436,2004-05-26,552.64,124,FALSE,125,30.13,"action","the mark gordon company",2004
+"335","The Simpsons Movie",7,7430,2007-07-25,527.07,87,FALSE,75,59.72,"animation","gracie films",2007
+"336","Wonder",8.2,7421,2017-11-13,305.94,113,FALSE,20,40.23,"drama","lionsgate",2017
+"337","Pride & Prejudice",8.1,7394,2005-09-16,121.62,127,FALSE,28,49.41,"drama","focus features",2005
+"338","Friends with Benefits",6.6,7394,2011-07-21,149.54,109,FALSE,35,35.4,"romance","castle rock entertainment",2011
+"339","Fantastic Four: Rise of the Silver Surfer",5.6,7381,2007-06-13,301.91,92,FALSE,130,30.05,"adventure","1492 pictures",2007
+"340","10 Cloverfield Lane",7,7377,2016-03-10,110.22,104,FALSE,15,27.82,"thriller","bad robot",2016
+"341","Assassin's Creed",5.4,7328,2016-12-21,240.7,116,FALSE,125,26.13,"action","new regency pictures",2016
+"342","Focus",6.9,7321,2015-02-25,153.96,105,FALSE,50.1,36.41,"romance","k & s films",2015
+"343","Quantum of Solace",6.3,7317,2008-10-29,589.58,106,FALSE,200,33.98,"adventure","eon productions",2008
+"344","Tomb Raider",6.4,7316,2018-03-05,274.65,118,FALSE,94,27.98,"action","square enix",2018
+"345","King Kong",6.9,7297,2005-12-12,562.36,187,FALSE,207,35.33,"adventure","universal pictures",2005
+"346","Fifty Shades Darker",6.5,7259,2017-02-08,378.83,118,FALSE,55,58.37,"drama","universal pictures",2017
+"347","The Terminal",7.3,7241,2004-06-17,219.42,128,FALSE,60,23.76,"comedy","amblin entertainment",2004
+"348","The Lego Movie",7.4,7233,2014-02-06,469.16,100,FALSE,60,30.27,"animation","village roadshow pictures",2014
+"349","The Expendables",6.2,7225,2010-08-03,274.47,103,FALSE,80,89.72,"thriller","nimar studios",2010
+"350","Maze Runner: The Death Cure",7.1,7141,2018-01-10,288.18,143,FALSE,62,41.49,"science fiction","gotham group",2018
+"351","The Bourne Ultimatum",7.4,7127,2007-08-03,442.82,115,FALSE,70,24.67,"action","universal pictures",2007
+"352","Cars 2",6.1,7115,2011-06-11,559.85,106,FALSE,200,72.04,"animation","pixar",2011
+"353","The Secret Life of Walter Mitty",7.2,7080,2013-12-18,188.13,114,FALSE,90,26.53,"adventure","tsg entertainment",2013
+"354","Pixels",5.7,7061,2015-07-16,244.87,105,FALSE,88,32.03,"action","sony pictures",2015
+"355","Ice Age: Continental Drift",6.4,7038,2012-06-27,877.24,88,FALSE,95,53.05,"animation","blue sky studios",2012
+"356","The Meg",6.3,7018,2018-08-09,530.52,113,FALSE,150,101.43,"action","apelles entertainment",2018
+"357","Blood Diamond",7.5,6999,2006-12-08,171.72,143,FALSE,100,33.64,"drama","virtual studios",2006
+"358","Ralph Breaks the Internet",7.2,6999,2018-11-20,529.32,112,FALSE,175,49.65,"family","walt disney pictures",2018
+"359","Valerian and the City of a Thousand Planets",6.6,6987,2017-07-20,225.97,136,FALSE,177.2,36.2,"adventure","belga films",2017
+"360","The Bourne Supremacy",7.3,6977,2004-07-23,288.5,108,FALSE,75,28.98,"action","universal pictures",2004
+"361","Ford v Ferrari",8,6972,2019-11-13,225.51,153,FALSE,97.6,78.35,"drama","20th century fox",2019
+"362","Percy Jackson & the Olympians: The Lightning Thief",6.2,6964,2010-02-01,226.5,118,FALSE,95,62.1,"adventure","1492 pictures",2010
+"363","Coraline",7.9,6950,2009-02-05,124.6,100,FALSE,60,105.93,"animation","focus features",2009
+"364","Creed",7.4,6949,2015-11-25,173.57,133,FALSE,37,43.91,"action","metro-goldwyn-mayer",2015
+"365","Don't Breathe",7,6922,2016-06-08,159.05,89,FALSE,9.9,24.91,"thriller","screen gems",2016
+"366","Ted 2",6.3,6892,2015-06-25,215.86,115,FALSE,68,58.25,"comedy","smart entertainment",2015
+"367","Midnight in Paris",7.5,6835,2011-05-11,151.12,94,FALSE,17,25.09,"fantasy","pontchartrain productions",2011
+"368","American Hustle",6.8,6821,2013-12-03,251.17,138,FALSE,40,20.88,"drama","annapurna pictures",2013
+"369","Life",6.4,6811,2017-03-22,100.54,104,FALSE,58,48.2,"horror","columbia pictures",2017
+"370","Green Lantern",5.2,6806,2011-06-14,219.85,114,FALSE,200,32.04,"adventure","dc entertainment",2011
+"371","2 Fast 2 Furious",6.5,6795,2003-06-05,236.35,108,FALSE,76,6.29,"action","ardustry entertainment",2003
+"372","Sausage Party",5.7,6789,2016-07-11,140.71,89,FALSE,19,44.8,"adventure","columbia pictures",2016
+"373","Us",7,6776,2019-03-14,256.07,116,FALSE,20,25.85,"horror","monkeypaw productions",2019
+"374","Hugo",7.2,6763,2011-11-22,185.77,126,FALSE,170,29.2,"adventure","paramount",2011
+"375","Dark Shadows",6,6754,2012-05-09,245.53,113,FALSE,150,29.2,"comedy","tim burton productions",2012
+"376","Shrek Forever After",6.4,6751,2010-05-16,752.6,93,FALSE,165,65.35,"comedy","dreamworks animation",2010
+"377","The Super Mario Bros. Movie",7.8,6743,2023-04-05,1355.73,93,FALSE,100,410.41,"animation","universal pictures",2023
+"378","The Mummy",5.5,6741,2017-06-06,409.23,110,FALSE,125,21.89,"fantasy","secret hideout",2017
+"379","Juno",7,6736,2007-12-05,232.37,96,FALSE,7.5,22.25,"comedy","mandate pictures",2007
+"380","Lost in Translation",7.4,6734,2003-09-18,119.72,102,FALSE,4,27.06,"drama","american zoetrope",2003
+"381","Ocean's Twelve",6.6,6721,2004-12-09,362.74,125,FALSE,110,27.1,"thriller","village roadshow pictures",2004
+"382","Big Fish",7.8,6707,2003-12-25,123.22,125,FALSE,70,18.98,"adventure","columbia pictures",2003
+"383","50 First Dates",6.8,6705,2004-02-13,196.48,99,FALSE,75,36.47,"comedy","columbia pictures",2004
+"384","Fast & Furious",6.7,6702,2009-04-02,363.16,107,FALSE,85,7.72,"action","dentsu",2009
+"385","8 Mile",7.1,6692,2002-11-08,242.88,111,FALSE,41,36.18,"drama","mikona productions",2002
+"386","How the Grinch Stole Christmas",6.7,6688,2000-11-15,345.82,104,FALSE,123,50.56,"family","universal pictures",2000
+"387","Sully",7.2,6686,2016-09-07,240.8,96,FALSE,60,23.19,"drama","malpaso productions",2016
+"388","The Boss Baby",6.5,6682,2017-03-23,527.97,97,FALSE,125,14.39,"animation","dreamworks animation",2017
+"389","Cinderella",6.8,6679,2015-03-06,543.51,105,FALSE,95,58.21,"romance","walt disney pictures",2015
+"390","F9",7.1,6660,2021-05-19,726.23,143,FALSE,200,48.99,"action","original film",2021
+"391","Cloud Atlas",6.9,6657,2012-10-26,130.48,172,FALSE,102,23.8,"drama","cloud atlas productions",2012
+"392","TRON: Legacy",6.5,6648,2010-12-14,400.06,125,FALSE,170,45.66,"adventure","walt disney pictures",2010
+"393","Superbad",7.2,6620,2007-03-20,170.81,113,FALSE,20,51.55,"comedy","columbia pictures",2007
+"394","Fast & Furious Presents: Hobbs & Shaw",6.9,6618,2019-08-01,760.1,137,FALSE,200,70.69,"action","chris morgan productions",2019
+"395","The Croods",6.9,6607,2013-03-15,587.2,98,FALSE,135,38.08,"animation","dreamworks animation",2013
+"396","Jurassic Park III",6.1,6592,2001-07-18,368.78,92,FALSE,93,1.49,"adventure","universal pictures",2001
+"397","Tomorrowland",6.3,6591,2015-05-19,209.15,130,FALSE,190,45.05,"adventure","babieka films",2015
+"398","Neighbors",6.2,6569,2014-05-08,270.67,97,FALSE,18,17.16,"comedy","good universe",2014
+"399","Wanted",6.5,6562,2008-06-19,342.46,110,FALSE,75,29.37,"action","kickstart",2008
+"400","Despicable Me 3",6.5,6560,2017-06-15,1031.55,90,FALSE,80,29.1,"action","illumination",2017
+"401","Rampage",6.5,6539,2018-04-11,428.03,107,FALSE,120,109.04,"action","wrigley pictures",2018
+"402","Cloverfield",6.7,6525,2008-01-15,170.76,85,FALSE,25,29.62,"action","bad robot",2008
+"403","Constantine",7.1,6521,2005-02-08,230.88,121,FALSE,100,48.19,"fantasy","village roadshow pictures",2005
+"404","Click",6.3,6518,2006-06-23,240.69,107,FALSE,82.5,34.07,"comedy","original film",2006
+"405","Thor: Love and Thunder",6.5,6510,2022-07-06,760.93,119,FALSE,250,117.09,"fantasy","marvel studios",2022
+"406","Little Miss Sunshine",7.7,6508,2006-07-26,100.52,102,FALSE,8,16.38,"comedy","fox searchlight pictures",2006
+"407","Jack Reacher",6.6,6486,2012-12-20,218.34,130,FALSE,60,44.48,"crime","skydance",2012
+"408","The Mummy Returns",6.4,6475,2001-05-04,443.28,130,FALSE,98,45.09,"adventure","universal pictures",2001
+"409","The Girl with the Dragon Tattoo",7.4,6475,2011-12-14,232.62,158,FALSE,90,23.47,"thriller","ground control",2011
+"410","Brokeback Mountain",7.8,6426,2005-09-10,178.04,134,FALSE,14,31.52,"drama","focus features",2005
+"411","Captain Phillips",7.6,6424,2013-10-10,218.79,134,FALSE,55,24.67,"action","columbia pictures",2013
+"412","Bridge of Spies",7.2,6421,2015-10-15,165.48,141,FALSE,40,15.63,"thriller","tsg entertainment",2015
+"413","Night at the Museum: Battle of the Smithsonian",6.1,6414,2009-05-20,413.11,105,FALSE,150,27.68,"adventure","21 laps entertainment",2009
+"414","Puss in Boots: The Last Wish",8.3,6394,2022-12-07,482.13,103,FALSE,90,221.49,"animation","dreamworks animation",2022
+"415","Teenage Mutant Ninja Turtles",5.9,6391,2014-08-07,485,101,FALSE,125,76.33,"science fiction","nickelodeon movies",2014
+"416","Madagascar: Escape 2 Africa",6.5,6371,2008-10-30,603.9,89,FALSE,150,61.94,"family","dreamworks animation",2008
+"417","Kung Fu Panda 2",7,6365,2011-05-25,665.69,91,FALSE,150,52.79,"animation","dreamworks animation",2011
+"418","Seven Pounds",7.6,6362,2008-12-18,168.17,123,FALSE,55,32.14,"drama","escape artists",2008
+"419","Jupiter Ascending",5.4,6353,2015-02-04,183.99,127,FALSE,176,53.86,"science fiction","anarchos productions",2015
+"420","Angels & Demons",6.7,6351,2009-05-13,485.93,138,FALSE,150,31.31,"thriller","columbia pictures",2009
+"421","Scary Movie",6.3,6346,2000-07-07,278.02,88,FALSE,19,64.01,"comedy","brad grey pictures",2000
+"422","Warcraft",6.4,6340,2016-05-25,433.68,123,FALSE,160,37.31,"action","legendary pictures",2016
+"423","Yes Man",6.7,6336,2008-12-09,223.24,104,FALSE,70,26.26,"comedy","the zanuck company",2008
+"424","Prince of Persia: The Sands of Time",6.3,6334,2010-05-19,336.37,116,FALSE,200,35.28,"adventure","walt disney pictures",2010
+"425","Hansel & Gretel: Witch Hunters",6,6324,2013-01-17,226.35,88,FALSE,50,61.88,"fantasy","paramount",2013
+"426","Pokémon Detective Pikachu",7,6314,2019-05-03,449.76,105,FALSE,150,33.68,"action","legendary pictures",2019
+"427","The Last Samurai",7.6,6297,2003-12-05,456.76,154,FALSE,140,37.55,"drama","warner bros. pictures",2003
+"428","Megamind",7,6290,2010-10-28,321.89,96,FALSE,130,41.69,"animation","dreamworks animation",2010
+"429","The Expendables 2",6.3,6289,2012-08-08,314.98,103,FALSE,100,59.83,"action","nu image",2012
+"430","RED",6.7,6282,2010-10-13,199,111,FALSE,58,25.56,"action","di bonaventura pictures",2010
+"431","Raya and the Last Dragon",7.9,6271,2021-03-03,130.42,107,FALSE,100,53.5,"animation","walt disney pictures",2021
+"432","Oz the Great and Powerful",5.9,6232,2013-03-07,491.87,130,FALSE,200,29.84,"fantasy","roth films",2013
+"433","Rise of the Guardians",7.4,6229,2012-11-21,306.94,97,FALSE,145,36.8,"family","dreamworks animation",2012
+"434","Allegiant",6.1,6228,2016-03-09,179.25,120,FALSE,110,19.86,"adventure","mandeville films",2016
+"435","Star Trek Beyond",6.8,6226,2016-07-07,343.47,122,FALSE,185,47.93,"action","skydance",2016
+"436","The Fast and the Furious: Tokyo Drift",6.5,6222,2006-06-03,158.96,104,FALSE,85,11.1,"action","mp munich pape filmproductions",2006
+"437","Olympus Has Fallen",6.4,6218,2013-03-20,170.27,120,FALSE,70,41.29,"action","millennium media",2013
+"438","The 40 Year Old Virgin",6.4,6218,2005-08-11,177.38,116,FALSE,26,22.98,"comedy","universal pictures",2005
+"439","Pitch Perfect",7.3,6206,2012-09-28,115.4,112,FALSE,17,25.46,"comedy","brownstone productions",2012
+"440","After Earth",5.2,6205,2013-05-30,243.84,100,FALSE,130,24.45,"science fiction","columbia pictures",2013
+"441","Taken 2",6.3,6201,2012-09-27,376.14,91,FALSE,45,47.04,"action","europacorp",2012
+"442","Super 8",6.8,6199,2011-06-08,260.1,112,FALSE,50,19.53,"thriller","bad robot",2011
+"443","The Intern",7.2,6199,2015-09-23,194.56,121,FALSE,35,27.54,"comedy","waverly films",2015
+"444","Lion",8.1,6199,2016-11-24,140.31,118,FALSE,12,20.27,"drama","the weinstein company",2016
+"445","Rio",6.7,6195,2011-04-03,484.64,96,FALSE,90,43.58,"animation","blue sky studios",2011
+"446","The Proposal",7.1,6189,2009-06-01,317.38,108,FALSE,40,34.57,"comedy","kurtzman/orci",2009
+"447","Mission: Impossible III",6.7,6186,2006-04-25,398.48,126,FALSE,150,45.48,"adventure","paramount",2006
+"448","Ad Astra",6.1,6143,2019-09-17,127.46,123,FALSE,87.5,11.08,"science fiction","new regency productions",2019
+"449","Mission: Impossible II",6.1,6122,2000-05-24,546.39,123,FALSE,125,38.4,"adventure","paramount",2000
+"450","The Emperor's New Groove",7.6,6109,2000-12-15,169.33,78,FALSE,100,76.82,"adventure","walt disney pictures",2000
+"451","Terminator 3: Rise of the Machines",6.1,6098,2003-07-02,435,109,FALSE,200,36.43,"action","columbia pictures",2003
+"452","Gangs of New York",7.3,6091,2002-12-14,193.77,168,FALSE,100,31.71,"drama","miramax",2002
+"453","The Nun",5.9,6076,2018-09-05,365.58,96,FALSE,22,357.73,"horror","new line cinema",2018
+"454","300: Rise of an Empire",6.1,6055,2014-03-05,337.58,102,FALSE,110,38.68,"action","legendary pictures",2014
+"455","A Good Day to Die Hard",5.3,6052,2013-02-06,304.65,98,FALSE,92,88.88,"action","mid atlantic films",2013
+"456","Love Actually",7.1,6047,2003-09-07,244.93,135,FALSE,40,23.46,"comedy","working title films",2003
+"457","The Purge: Anarchy",6.6,6042,2014-07-17,111.93,104,FALSE,9,36.69,"horror","why not productions",2014
+"458","Mystic River",7.7,6036,2003-03-03,156.82,138,FALSE,25,25.68,"thriller","warner bros. pictures",2003
+"459","Alice Through the Looking Glass",6.6,6025,2016-05-25,299.46,113,FALSE,170,34.55,"adventure","legend3d",2016
+"460","Mamma Mia!",7,6024,2008-07-03,609.84,108,FALSE,52,25.81,"comedy","littlestar",2008
+"461","Terminator Salvation",6,6009,2009-05-20,371.35,115,FALSE,200,40.43,"action","columbia pictures",2009
+"462","Ghostbusters",5.4,5976,2016-07-14,229.15,117,FALSE,144,40.05,"action","ghost corps",2016
+"463","Rango",6.8,5969,2011-03-02,245.72,107,FALSE,135,69.6,"animation","paramount",2011
+"464","Pearl Harbor",6.9,5944,2001-05-21,449.22,183,FALSE,140,33.06,"war","jerry bruckheimer films",2001
+"465","Dark Phoenix",6,5941,2019-06-05,252.44,114,FALSE,200,42.34,"fantasy","the donners' company",2019
+"466","This Is the End",6.2,5941,2013-06-12,126.04,107,FALSE,32,37.31,"action","columbia pictures",2013
+"467","Horrible Bosses",6.6,5940,2011-07-08,209.84,98,FALSE,35,25.14,"comedy","new line cinema",2011
+"468","Shark Tale",6,5923,2004-09-20,367.28,90,FALSE,75,42.75,"animation","dreamworks animation",2004
+"469","The Legend of Tarzan",5.9,5917,2016-06-29,356.74,109,FALSE,180,27.81,"fantasy","village roadshow pictures",2016
+"470","The Chronicles of Narnia: Prince Caspian",6.6,5916,2008-05-15,419.67,150,FALSE,225,39.52,"adventure","walt disney pictures",2008
+"471","The Others",7.6,5916,2001-08-02,209.95,101,FALSE,17,40.22,"horror","cruise/wagner productions",2001
+"472","Inferno",6.1,5888,2016-10-13,220.02,121,FALSE,75,24.9,"mystery","columbia pictures",2016
+"473","The Impossible",7.4,5880,2012-09-09,198.09,113,FALSE,45,21.54,"adventure","summit entertainment",2012
+"474","The Blind Side",7.7,5868,2009-11-20,309.21,129,FALSE,29,35.27,"drama","warner bros. pictures",2009
+"475","Project X",6.8,5867,2012-03-01,102.73,88,FALSE,12,60.33,"comedy","silver pictures",2012
+"476","Clash of the Titans",5.9,5863,2010-03-26,493.21,106,FALSE,125,36.01,"adventure","the zanuck company",2010
+"477","Atomic Blonde",6.4,5860,2017-07-26,100.01,115,FALSE,30,19.97,"action","focus features",2017
+"478","Ocean's Thirteen",6.7,5859,2007-06-05,311.31,122,FALSE,85,31.63,"crime","village roadshow pictures",2007
+"479","The Man from U.N.C.L.E.",7.1,5852,2015-08-13,108.15,116,FALSE,75,25.53,"comedy","wigram productions",2015
+"480","National Treasure",6.6,5850,2004-11-19,347.51,131,FALSE,100,29.09,"adventure","walt disney pictures",2004
+"481","Noah",5.7,5846,2014-03-07,362.64,138,FALSE,125,28.88,"drama","disruption entertainment",2014
+"482","How to Train Your Dragon: The Hidden World",7.8,5817,2019-01-03,524.58,104,FALSE,129,61.84,"animation","dreamworks animation",2019
+"483","Resident Evil",6.6,5803,2002-03-15,102.98,100,FALSE,33,22.66,"horror","impact pictures",2002
+"484","Warm Bodies",6.4,5761,2013-01-31,116.98,97,FALSE,35,21.95,"horror","summit entertainment",2013
+"485","Annabelle",5.8,5742,2014-10-02,257.05,99,FALSE,6.5,44.87,"horror","atomic monster",2014
+"486","The Hitman's Bodyguard",6.9,5732,2017-08-16,176.59,118,FALSE,30,28.21,"action","campbell grobman films",2017
+"487","Transformers: The Last Knight",6.1,5727,2017-06-16,605.43,154,FALSE,217,44.97,"action","paramount",2017
+"488","Happy Death Day",6.6,5721,2017-10-12,125.48,97,FALSE,4.8,17.25,"horror","vesuvius productions",2017
+"489","A.I. Artificial Intelligence",7,5719,2001-06-29,235.93,146,FALSE,100,26.62,"drama","amblin entertainment",2001
+"490","The Ring",6.7,5706,2002-10-18,249.35,115,FALSE,48,25.2,"horror","benderspink",2002
+"491","Lara Croft: Tomb Raider",5.9,5705,2001-06-11,274.7,100,FALSE,115,32.12,"adventure","paramount",2001
+"492","Little Women",7.9,5700,2019-12-25,216.6,135,FALSE,40,25.76,"drama","columbia pictures",2019
+"493","Maleficent: Mistress of Evil",7.3,5698,2019-10-16,491.73,119,FALSE,185,40.55,"family","walt disney pictures",2019
+"494","A Quiet Place Part II",7.5,5691,2021-05-21,297.4,97,FALSE,61,46.27,"science fiction","paramount",2021
+"495","Onward",7.7,5687,2020-02-29,141.94,103,FALSE,200,25.37,"family","walt disney pictures",2020
+"496","The Polar Express",6.7,5682,2004-11-10,310.63,100,FALSE,165,45.53,"animation","golden mean",2004
+"497","Dracula Untold",6.4,5680,2014-10-01,217.12,92,FALSE,70,21.95,"horror","universal pictures",2014
+"498","Independence Day: Resurgence",5.3,5674,2016-06-22,389.68,120,FALSE,165,31.22,"action","20th century fox",2016
+"499","Spy",6.8,5666,2015-05-06,235.67,120,FALSE,65,25.33,"action","chernin entertainment",2015
+"500","Lilo & Stitch",7.5,5665,2002-06-21,273.14,85,FALSE,80,44.02,"animation","walt disney pictures",2002
+"501","Contagion",6.6,5663,2011-09-08,137.55,106,FALSE,60,22.54,"drama","participant",2011
+"502","Madagascar 3: Europe's Most Wanted",6.6,5658,2012-06-06,746.92,93,FALSE,145,38.66,"animation","dreamworks animation",2012
+"503","Fantastic Four",4.4,5648,2015-08-05,167.98,100,FALSE,120,35.84,"action","moving picture company",2015
+"504","Bumblebee",6.7,5639,2018-12-15,467.99,113,FALSE,135,30.51,"action","paramount",2018
+"505","The Book of Eli",6.8,5636,2010-01-14,157.11,118,FALSE,80,36.81,"action","alcon entertainment",2010
+"506","The Accountant",7.1,5635,2016-10-13,155.16,128,FALSE,44,22.66,"crime","zero gravity management",2016
+"507","Red Sparrow",6.5,5596,2018-02-28,151.57,140,FALSE,69,24.57,"thriller","chernin entertainment",2018
+"508","Tropic Thunder",6.6,5591,2008-08-09,195.7,107,FALSE,92,23.11,"action","internationale filmproduktion stella-del-sud second",2008
+"509","Bolt",6.5,5582,2008-11-21,309.98,98,FALSE,150,40.24,"animation","walt disney animation studios",2008
+"510","Grown Ups",6.4,5577,2010-06-24,271.43,102,FALSE,80,46.9,"comedy","columbia pictures",2010
+"511","Flight",6.8,5572,2012-11-02,161.77,138,FALSE,31,33.13,"drama","paramount",2012
+"512","The Karate Kid",6.5,5545,2010-06-10,359.13,140,FALSE,40,49.17,"action","jerry weintraub productions",2010
+"513","The Magnificent Seven",6.4,5545,2016-09-14,162.36,132,FALSE,90,33.56,"adventure","escape artists",2016
+"514","The Lone Ranger",6.1,5528,2013-07-03,260.5,149,FALSE,215,25.88,"action","walt disney pictures",2013
+"515","Meet the Parents",6.7,5512,2000-10-06,330.44,108,FALSE,55,21.88,"comedy","tribeca productions",2000
+"516","No Time to Die",7.4,5502,2021-09-29,774.15,163,FALSE,250,51.3,"action","eon productions",2021
+"517","Night at the Museum: Secret of the Tomb",6.2,5495,2014-12-17,363.2,98,FALSE,127,38.75,"adventure","moving picture company",2014
+"518","Godzilla: King of the Monsters",6.7,5479,2019-05-29,386.6,132,FALSE,170,53.98,"science fiction","legendary pictures",2019
+"519","The 5th Wave",5.9,5479,2016-01-14,109.91,112,FALSE,38,26.97,"science fiction","lstar capital",2016
+"520","Ghost Rider",5.5,5477,2007-01-15,228.74,114,FALSE,110,39.49,"thriller","crystal sky pictures",2007
+"521","Black Panther: Wakanda Forever",7.2,5475,2022-11-09,859.1,162,FALSE,250,131.9,"action","marvel studios",2022
+"522","Central Intelligence",6.4,5473,2016-06-16,216.97,107,FALSE,50,25.57,"action","warner bros. pictures",2016
+"523","Black Adam",7,5467,2022-10-19,393.25,124,FALSE,200,104.76,"action","new line cinema",2022
+"524","Sweeney Todd: The Demon Barber of Fleet Street",7.2,5466,2007-12-20,152,116,FALSE,50,31.42,"drama","tim burton productions",2007
+"525","Cloudy with a Chance of Meatballs",6.6,5461,2009-09-17,242.99,90,FALSE,100,33.07,"animation","sony pictures animation",2009
+"526","Ender's Game",6.6,5432,2013-10-24,125.54,114,FALSE,110,25.86,"science fiction","digital domain",2013
+"527","The Girl on the Train",6.4,5427,2016-10-05,173.19,112,FALSE,45,15.23,"thriller","reliance entertainment",2016
+"528","Van Helsing",6.3,5410,2004-05-05,300.26,132,FALSE,160,45.54,"horror","universal pictures",2004
+"529","The Conjuring: The Devil Made Me Do It",7.5,5407,2021-05-25,206.43,111,FALSE,39,152.62,"horror","new line cinema",2021
+"530","The Dictator",6.2,5401,2012-05-15,179.38,83,FALSE,65,31.3,"comedy","four by two productions",2012
+"531","Hulk",5.5,5392,2003-06-19,245.36,138,FALSE,137,39.7,"science fiction","marvel enterprises",2003
+"532","Game Night",6.8,5372,2018-02-15,117.5,100,FALSE,37,18.92,"mystery","new line cinema",2018
+"533","Hitch",6.6,5367,2005-02-11,371.6,118,FALSE,70,23.13,"comedy","columbia pictures",2005
+"534","Live Free or Die Hard",6.6,5365,2007-06-20,383.53,128,FALSE,110,33.52,"action","dune entertainment",2007
+"535","Jason Bourne",6.3,5362,2016-07-27,415.48,123,FALSE,120,28.78,"action","the kennedy/marshall company",2016
+"536","Taken 3",6.2,5360,2014-12-16,325.77,109,FALSE,48,86.53,"thriller","europacorp",2014
+"537","Training Day",7.5,5360,2001-10-05,104.88,122,FALSE,45,30.21,"action","wv films ii",2001
+"538","Hotel Transylvania 2",6.8,5338,2015-09-21,473.23,89,FALSE,80,36.25,"animation","columbia pictures",2015
+"539","Jumper",6.1,5337,2008-02-13,222.23,88,FALSE,85,26.53,"action","dune entertainment",2008
+"540","The Bourne Legacy",6.2,5337,2012-08-08,276.57,135,FALSE,130,32.09,"action","universal pictures",2012
+"541","King Arthur: Legend of the Sword",6.5,5333,2017-05-10,148.68,126,FALSE,175,33.35,"action","village roadshow pictures",2017
+"542","Kung Fu Panda 3",6.9,5327,2016-01-23,521.17,95,FALSE,145,45,"action","pearl studio",2016
+"543","Inside Man",7.4,5297,2006-03-17,186,129,FALSE,45,24.59,"crime","40 acres and a mule filmworks",2006
+"544","The Invisible Man",7.1,5282,2020-02-26,144.49,124,FALSE,7,22.74,"thriller","blumhouse productions",2020
+"545","Just Go with It",6.7,5270,2011-02-10,214.95,117,FALSE,80,43.2,"comedy","columbia pictures",2011
+"546","Cars 3",6.9,5263,2017-06-15,383.93,102,FALSE,175,62.96,"animation","pixar",2017
+"547","Annabelle: Creation",6.6,5258,2017-08-03,306.52,110,FALSE,15,53.1,"horror","atomic monster",2017
+"548","John Carter",6.3,5225,2012-03-07,284.14,132,FALSE,250,38.49,"action","walt disney pictures",2012
+"549","Jurassic World Dominion",6.8,5225,2022-06-01,1001.98,147,FALSE,165,113.9,"adventure","amblin entertainment",2022
+"550","G.I. Joe: Retaliation",5.6,5217,2013-03-27,371.88,110,FALSE,130,40.34,"science fiction","paramount",2013
+"551","Everything Everywhere All at Once",7.8,5210,2022-03-24,139.2,140,FALSE,25,64.28,"action","agbo",2022
+"552","Black Hawk Down",7.4,5208,2001-12-28,172.99,145,FALSE,92,36.7,"action","jerry bruckheimer films",2001
+"553","Jungle Cruise",7.4,5199,2021-07-28,220.89,127,FALSE,200,48.28,"action","walt disney pictures",2021
+"554","The Chronicles of Narnia: The Voyage of the Dawn Treader",6.4,5193,2010-12-02,415.69,113,FALSE,155,38.31,"adventure","fox 2000 pictures",2010
+"555","Zombieland: Double Tap",7,5187,2019-10-09,122.8,99,FALSE,42,33.95,"comedy","pariah",2019
+"556","School of Rock",7.1,5173,2003-10-03,131.1,110,FALSE,35,22.22,"comedy","paramount",2003
+"557","Signs",6.7,5144,2002-08-02,408.25,106,FALSE,72,21.11,"drama","touchstone pictures",2002
+"558","The Good Dinosaur",6.7,5143,2015-11-14,332.21,93,FALSE,175,57.17,"adventure","pixar",2015
+"559","Battleship",5.8,5134,2012-04-11,303.03,131,FALSE,209,53.29,"thriller","universal pictures",2012
+"560","RoboCop",5.8,5133,2014-01-30,242.69,118,FALSE,120,32.42,"science fiction","columbia pictures",2014
+"561","The Italian Job",6.8,5113,2003-05-30,176.07,110,FALSE,60,60.45,"action","de line pictures",2003
+"562","Salt",6.4,5109,2010-07-21,293.33,100,FALSE,110,31.47,"action","wintergreen productions",2010
+"563","Total Recall",6,5107,2012-08-02,198.8,118,FALSE,125,29.01,"action","total recall",2012
+"564","Transcendence",6,5102,2014-04-16,103.04,119,FALSE,100,20.63,"thriller","dmg entertainment",2014
+"565","The Tourist",6.2,5097,2010-12-08,278.73,103,FALSE,100,25.17,"action","columbia pictures",2010
+"566","Enchanted",6.8,5088,2007-11-20,340.49,107,FALSE,85,26.47,"comedy","walt disney pictures",2007
+"567","Pitch Perfect 2",6.9,5084,2015-05-07,287.51,115,FALSE,29,25.94,"comedy","brownstone productions",2015
+"568","Final Destination",6.6,5080,2000-03-17,112.88,98,FALSE,23,35.87,"horror","hard eight pictures",2000
+"569","Collateral",7.2,5079,2004-08-04,217.76,120,FALSE,65,22.49,"drama","paramount",2004
+"570","The Gentlemen",7.7,5079,2020-01-01,115.17,113,FALSE,22,31.06,"comedy","miramax",2020
+"571","Barbie",7.3,5074,2023-07-19,1428.55,114,FALSE,145,1069.34,"comedy","luckychap entertainment",2023
+"572","Uncharted",7,5066,2022-02-10,407.14,116,FALSE,120,79.54,"action","columbia pictures",2022
+"573","The Princess and the Frog",7.2,5062,2009-12-08,271,98,FALSE,105,61.13,"romance","walt disney pictures",2009
+"574","Apocalypto",7.6,5049,2006-12-07,120.67,139,FALSE,40,51.11,"action","icon entertainment international",2006
+"575","Due Date",6.3,5042,2010-11-03,211.78,95,FALSE,65,19.07,"comedy","legendary pictures",2010
+"576","The Adventures of Tintin",6.9,5024,2011-10-24,373.99,107,FALSE,130,33.65,"adventure","paramount",2011
+"577","The Matrix Resurrections",6.5,5018,2021-12-16,156.5,147,FALSE,190,52.14,"science fiction","warner bros. pictures",2021
+"578","Creed II",7,5007,2018-11-21,214.22,130,FALSE,50,45.17,"drama","metro-goldwyn-mayer",2018
+"579","Brother Bear",7.3,4993,2003-10-23,250.4,85,FALSE,128,43.73,"adventure","walt disney feature animation",2003
+"580","Non-Stop",6.8,4987,2014-02-26,222.81,106,FALSE,50,21.19,"action","tf1",2014
+"581","The Island",6.7,4981,2005-07-21,162.95,136,FALSE,126,33.41,"action","dreamworks pictures",2005
+"582","Les Misérables",7.3,4978,2012-12-18,441.81,158,FALSE,61,26.34,"history","universal pictures",2012
+"583","Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",6.8,4945,2006-11-01,262.55,84,FALSE,18,18.82,"comedy","20th century fox",2006
+"584","Guardians of the Galaxy Vol. 3",8,4941,2023-05-03,845.43,150,FALSE,250,318.52,"science fiction","marvel studios",2023
+"585","American Gangster",7.6,4933,2007-11-02,266.47,157,FALSE,100,31.39,"drama","film rites",2007
+"586","Bad Boys II",6.6,4924,2003-07-18,273.34,147,FALSE,130,31.46,"adventure","don simpson/jerry bruckheimer films",2003
+"587","The Purge: Election Year",6.4,4919,2016-06-29,118.59,105,FALSE,10,32.65,"action","why not productions",2016
+"588","The Aviator",7.2,4906,2004-12-17,213.7,170,FALSE,110,21.48,"drama","miramax",2004
+"589","Knowing",6.2,4902,2009-03-19,155.45,121,FALSE,50,37.12,"action","summit entertainment",2009
+"590","First Man",7,4896,2018-10-10,105.71,141,FALSE,70,25.21,"history","dreamworks pictures",2018
+"591","Chronicle",6.8,4891,2012-02-01,145,84,FALSE,15,26.71,"science fiction","dune entertainment",2012
+"592","True Grit",7.3,4890,2010-12-22,252.28,110,FALSE,38,18.66,"drama","paramount",2010
+"593","Percy Jackson: Sea of Monsters",6,4859,2013-08-07,199.85,106,FALSE,90,24.02,"adventure","fox 2000 pictures",2013
+"594","Bullet Train",7.5,4804,2022-08-03,239.27,126,FALSE,90,79.84,"action","87north productions",2022
+"595","Saw II",6.6,4790,2005-10-28,147.75,93,FALSE,4,111.42,"horror","got films",2005
+"596","The Shallows",6.3,4789,2016-06-24,119.1,86,FALSE,17,19.5,"horror","columbia pictures",2016
+"597","Escape Plan",6.7,4789,2013-10-09,137.33,115,FALSE,50,44.96,"action","knightsbridge entertainment",2013
+"598","17 Again",6.3,4788,2009-03-11,136.32,102,FALSE,20,32.88,"comedy","new line cinema",2009
+"599","Hellboy II: The Golden Army",6.8,4782,2008-07-11,160.39,120,FALSE,85,28.56,"fantasy","universal pictures",2008
+"600","Darkest Hour",7.3,4761,2017-11-22,150.85,125,FALSE,30,18.9,"drama","perfect world pictures",2017
+"601","National Treasure: Book of Secrets",6.3,4761,2007-12-13,459.24,124,FALSE,130,32.04,"action","walt disney pictures",2007
+"602","Happy Feet",6.2,4752,2006-11-16,384.34,108,FALSE,100,33.72,"animation","kennedy miller productions",2006
+"603","The Great Wall",6,4748,2016-12-16,331.96,103,FALSE,150,32.6,"action","legendary east",2016
+"604","Daredevil",5.3,4718,2003-02-14,179.18,103,FALSE,78,23.53,"fantasy","marvel enterprises",2003
+"605","Gemini Man",6.3,4718,2019-10-02,173.47,117,FALSE,140,23.67,"science fiction","skydance",2019
+"606","Cowboys & Aliens",5.6,4718,2011-07-29,174.82,119,FALSE,163,26.07,"action","dreamworks pictures",2011
+"607","Love & Other Drugs",7,4717,2010-11-22,102.82,112,FALSE,30,45.03,"drama","fox 2000 pictures",2010
+"608","Lemony Snicket's A Series of Unfortunate Events",6.8,4688,2004-12-16,209.07,108,FALSE,140,25.6,"adventure","paramount",2004
+"609","Paranormal Activity",6,4676,2007-09-14,193.36,85,FALSE,0.22,35.43,"horror","blumhouse productions",2007
+"610","Man on Fire",7.4,4674,2004-04-23,130.29,146,FALSE,70,33.35,"action","fox 2000 pictures",2004
+"611","The Dark Tower",5.7,4658,2017-08-03,113.23,95,FALSE,60,22.18,"fantasy","mrc",2017
+"612","Jack the Giant Slayer",5.8,4655,2013-02-27,197.69,114,FALSE,195,44.61,"fantasy","new line cinema",2013
+"613","Moneyball",7.3,4652,2011-09-23,110.21,134,FALSE,50,19.8,"drama","columbia pictures",2011
+"614","The Equalizer 2",6.7,4652,2018-07-19,190.4,121,FALSE,62,81.31,"action","lonetree entertainment",2018
+"615","Terminator: Dark Fate",6.5,4652,2019-10-23,261.12,128,FALSE,185,39.45,"science fiction","lightstorm entertainment",2019
+"616","John Wick: Chapter 4",7.8,4639,2023-03-22,426.98,170,FALSE,90,482.54,"action","thunder road",2023
+"617","The Sorcerer's Apprentice",6.1,4637,2010-07-13,215.28,109,FALSE,150,28.59,"fantasy","walt disney pictures",2010
+"618","Law Abiding Citizen",7.4,4637,2009-10-15,127.94,109,FALSE,53,39.66,"drama","the film department",2009
+"619","Bridget Jones's Diary",6.7,4635,2001-04-13,281.93,97,FALSE,25,26.93,"comedy","working title films",2001
+"620","Wrath of Man",7.7,4632,2021-04-22,103.97,119,FALSE,40,56.93,"crime","miramax",2021
+"621","Skyscraper",6.3,4623,2018-07-11,292.35,102,FALSE,125,22.6,"action","flynn picture company",2018
+"622","The Town",7.2,4616,2010-09-15,154.03,125,FALSE,37,35.12,"crime","legendary pictures",2010
+"623","The Expendables 3",6.2,4611,2014-08-07,214.7,126,FALSE,95,89.69,"action","davis films",2014
+"624","The Lego Batman Movie",7.2,4593,2017-02-08,311.95,104,FALSE,80,29.4,"animation","lin pictures",2017
+"625","The Mule",6.8,4593,2018-12-14,174.8,116,FALSE,50,16.83,"crime","imperative entertainment",2018
+"626","The Holiday",7.1,4592,2006-12-08,194.17,136,FALSE,85,19.82,"comedy","waverly films",2006
+"627","The Princess Diaries",6.9,4583,2001-08-03,165.34,115,FALSE,37,29.47,"comedy","bottom of the ninth productions",2001
+"628","The Huntsman: Winter's War",6.3,4573,2016-04-06,164.99,114,FALSE,115,23.02,"action","roth films",2016
+"629","Everest",6.8,4567,2015-09-10,203.43,121,FALSE,55,28.69,"adventure","cross creek pictures",2015
+"630","American Pie 2",6.2,4553,2001-08-10,287.55,108,FALSE,30,33.99,"comedy","universal pictures",2001
+"631","Pacific Rim: Uprising",6.1,4528,2018-03-21,290.06,111,FALSE,150,44.75,"action","legendary pictures",2018
+"632","Panic Room",6.8,4523,2002-03-29,197.08,111,FALSE,48,20.66,"crime","columbia pictures",2002
+"633","Bee Movie",6,4500,2007-10-28,287.59,91,FALSE,150,34.08,"family","columbus 81 productions",2007
+"634","Chicken Run",6.8,4494,2000-06-23,224.83,84,FALSE,45,36.88,"animation","dreamworks animation",2000
+"635","Jack Reacher: Never Go Back",5.9,4489,2016-10-19,162.15,118,FALSE,60,57.9,"action","skydance",2016
+"636","Men in Black: International",5.9,4478,2019-06-12,253.89,115,FALSE,110,24.84,"comedy","amblin entertainment",2019
+"637","Journey to the Center of the Earth",6.1,4474,2008-07-10,101.7,93,FALSE,45,24.98,"action","new line cinema",2008
+"638","Geostorm",6.1,4441,2017-10-12,221.6,109,FALSE,120,84.71,"action","twisted media",2017
+"639","Meet the Fockers",6.2,4427,2004-12-22,516.64,115,FALSE,80,23.85,"comedy","universal pictures",2004
+"640","White House Down",6.4,4421,2013-06-27,205.37,131,FALSE,150,34.5,"action","iron horse entertainment",2013
+"641","London Has Fallen",6.2,4408,2016-03-02,205.75,99,FALSE,60,39.27,"action","millennium media",2016
+"642","Bad Teacher",5.6,4404,2011-05-16,216.2,92,FALSE,20,21.9,"comedy","columbia pictures",2011
+"643","Spider-Man: Across the Spider-Verse",8.4,4394,2023-05-31,683.24,140,FALSE,100,512.34,"animation","columbia pictures",2023
+"644","No Strings Attached",6.3,4381,2011-01-21,149.23,107,FALSE,25,35.56,"comedy","katalyst films",2011
+"645","I Am Number Four",6.2,4366,2011-02-18,149.88,109,FALSE,50,40.18,"action","touchstone pictures",2011
+"646","Bridge to Terabithia",7.3,4366,2007-02-15,137.59,96,FALSE,60,29.74,"adventure","lauren levine productions inc.",2007
+"647","Déjà Vu",6.8,4361,2006-11-22,180.56,126,FALSE,75,34.18,"action","touchstone pictures",2006
+"648","Halloween",6.5,4342,2018-10-18,259.9,106,FALSE,10,30.02,"horror","universal pictures",2018
+"649","Atlantis: The Lost Empire",7,4339,2001-06-02,186.05,95,FALSE,120,25.66,"animation","walt disney pictures",2001
+"650","Blade II",6.5,4338,2002-03-22,155.01,117,FALSE,54,28.52,"fantasy","new line cinema",2002
+"651","G.I. Joe: The Rise of Cobra",5.8,4320,2009-08-03,302.47,118,FALSE,175,60.41,"adventure","paramount",2009
+"652","Hannibal",6.8,4320,2001-02-08,351.69,131,FALSE,87,5.53,"crime","dino de laurentiis company",2001
+"653","21",6.7,4317,2008-03-27,159.81,123,FALSE,35,25.26,"drama","columbia pictures",2008
+"654","Escape Room",6.5,4315,2019-01-03,155.71,100,FALSE,9,25.43,"horror","original film",2019
+"655","Marley & Me",7.2,4312,2008-12-25,255.74,115,FALSE,60,21.5,"comedy","sunswept entertainment",2008
+"656","The A-Team",6.4,4311,2010-06-09,177.24,117,FALSE,110,31.47,"thriller","phoenix film partners",2010
+"657","Insomnia",6.9,4306,2002-05-24,113.71,118,FALSE,46,17.63,"thriller","warner bros. pictures",2002
+"658","Burn After Reading",6.6,4302,2008-09-05,163.72,96,FALSE,37,19.13,"comedy","focus features",2008
+"659","Rocketman",7.3,4285,2019-05-17,167.32,121,FALSE,40,13.91,"music","paramount",2019
+"660","Monsters vs Aliens",6.2,4280,2009-03-19,381.51,94,FALSE,175,31.57,"animation","dreamworks animation",2009
+"661","The Post",7,4271,2017-12-22,179.77,116,FALSE,50,13.24,"drama","20th century fox",2017
+"662","The Predator",5.6,4266,2018-09-05,160.54,107,FALSE,88,46.62,"science fiction","davis entertainment",2018
+"663","Robin Hood",6.4,4264,2010-05-12,321.67,140,FALSE,200,29.6,"action","scott free productions",2010
+"664","The Golden Compass",6,4258,2007-12-04,372.23,113,FALSE,180,21.65,"adventure","depth of field",2007
+"665","Allied",6.8,4251,2016-11-17,119.52,124,FALSE,85,13.3,"action","paramount",2016
+"666","Exodus: Gods and Kings",5.8,4251,2014-12-03,268.03,150,FALSE,140,78.89,"adventure","volcano films",2014
+"667","Scary Movie 2",5.8,4249,2001-07-04,141.22,83,FALSE,45,57.25,"comedy","brad grey pictures",2001
+"668","Spirit: Stallion of the Cimarron",7.7,4239,2002-05-24,122.56,83,FALSE,80,59.15,"animation","dreamworks animation",2002
+"669","Sonic the Hedgehog 2",7.6,4225,2022-04-08,405.42,123,FALSE,110,142.66,"action","original film",2022
+"670","Moulin Rouge!",7.6,4219,2001-05-24,179.21,128,FALSE,52.5,18.61,"drama","20th century fox",2001
+"671","Deepwater Horizon",6.9,4219,2016-09-28,121.79,107,FALSE,110,26.71,"drama","summit entertainment",2016
+"672","Robots",6.4,4210,2005-03-10,262.51,91,FALSE,75,32.54,"animation","blue sky studios",2005
+"673","Power Rangers",6.3,4189,2017-03-23,142.34,124,FALSE,105,39.08,"action","lionsgate",2017
+"674","The Adjustment Bureau",6.7,4188,2011-03-03,127.87,106,FALSE,50.2,21.95,"science fiction","universal pictures",2011
+"675","Perfume: The Story of a Murderer",7.4,4186,2006-09-13,135.04,147,FALSE,60,36.08,"crime","rising star",2006
+"676","Ice Age: Collision Course",6.1,4175,2016-06-23,408.58,95,FALSE,105,38.55,"adventure","blue sky studios",2016
+"677","A Christmas Carol",6.9,4173,2009-11-04,325.29,94,FALSE,200,28.2,"animation","walt disney pictures",2009
+"678","Neighbors 2: Sorority Rising",5.8,4164,2016-05-04,108.76,92,FALSE,35,17.21,"comedy","perfect world pictures",2016
+"679","The Black Phone",7.7,4158,2022-06-22,161.44,103,FALSE,17,51.02,"horror","universal pictures",2022
+"680","Zero Dark Thirty",7,4154,2012-12-19,132.82,157,FALSE,40,22.07,"thriller","columbia pictures",2012
+"681","Knight and Day",6.2,4141,2010-06-15,261.99,109,FALSE,117,24.29,"action","pink machine",2010
+"682","Over the Hedge",6.5,4138,2006-05-17,343.4,83,FALSE,80,29.58,"family","dreamworks animation",2006
+"683","American Reunion",6.3,4137,2012-04-04,234.99,113,FALSE,50,36.48,"comedy","universal pictures",2012
+"684","American Made",6.9,4137,2017-08-18,133.51,115,FALSE,50,22.08,"action","vendian entertainment",2017
+"685","Alvin and the Chipmunks",5.8,4130,2007-12-13,361.37,92,FALSE,60,38.46,"comedy","fox 2000 pictures",2007
+"686","Public Enemies",6.7,4129,2009-07-01,214.1,140,FALSE,100,31.78,"crime","relativity media",2009
+"687","The Mummy: Tomb of the Dragon Emperor",5.5,4121,2008-07-01,403.45,112,FALSE,145,34.96,"adventure","universal pictures",2008
+"688","The Commuter",6.4,4119,2018-01-11,119.94,104,FALSE,30,19.53,"action","studiocanal",2018
+"689","Bridesmaids",6.5,4106,2011-05-13,288.38,125,FALSE,32.5,30.88,"comedy","apatow productions",2011
+"690","Dumbo",6.6,4088,2019-03-27,353.28,112,FALSE,170,42.71,"family","tim burton productions",2019
+"691","Scooby-Doo",6,4071,2002-06-14,275.65,88,FALSE,84,43.41,"mystery","mosaic media group",2002
+"692","Into the Woods",5.8,4060,2014-12-24,212.9,125,FALSE,50,15.98,"fantasy","walt disney pictures",2014
+"693","Wedding Crashers",6.5,4060,2005-07-13,288.49,119,FALSE,40,31.64,"comedy","avery pix",2005
+"694","Hotel Transylvania 3: Summer Vacation",6.9,4056,2018-06-28,528.6,97,FALSE,80,35.49,"animation","columbia pictures",2018
+"695","Need for Speed",6.4,4047,2014-03-12,203.28,132,FALSE,66,47.31,"action","revolution sun studios",2014
+"696","The Beach",6.5,4038,2000-02-03,144.06,119,FALSE,40,17.58,"drama","figment films",2000
+"697","Gone in Sixty Seconds",6.4,4034,2000-06-09,237.2,118,FALSE,90,22.36,"action","touchstone pictures",2000
+"698","The Passion of the Christ",7.5,4017,2004-02-25,611.9,127,FALSE,30,43.73,"drama","icon productions",2004
+"699","Saw III",6.4,4010,2006-10-26,164.87,109,FALSE,10,103.27,"horror","twisted pictures",2006
+"700","Ant-Man and the Wasp: Quantumania",6.4,4009,2023-02-15,476.07,125,FALSE,200,173.69,"action","marvel studios",2023
+"701","1408",6.7,4007,2007-06-22,132.96,104,FALSE,25,23.35,"horror","di bonaventura pictures",2007
+"702","AVP: Alien vs. Predator",5.9,3999,2004-08-12,177.43,101,FALSE,70,29.36,"adventure","revolution sun studios",2004
+"703","Lara Croft: Tomb Raider - The Cradle of Life",5.7,3963,2003-07-21,160.1,117,FALSE,95,18.67,"action","paramount",2003
+"704","Resident Evil: Apocalypse",6.3,3954,2004-09-10,129.39,94,FALSE,45,23.72,"horror","davis films/impact pictures",2004
+"705","Evan Almighty",5.6,3948,2007-06-09,174.44,96,FALSE,175,29.6,"fantasy","universal pictures",2007
+"706","Journey 2: The Mysterious Island",6.1,3942,2012-01-19,355.69,94,FALSE,79,42.91,"adventure","walden media",2012
+"707","The King's Man",6.8,3932,2021-12-22,125.93,131,FALSE,100,52.77,"action","marv films",2021
+"708","Dear John",6.8,3927,2010-02-04,114.98,108,FALSE,25,19.39,"drama","screen gems",2010
+"709","Grown Ups 2",6.1,3920,2013-07-11,247.02,101,FALSE,80,58.41,"comedy","columbia pictures",2013
+"710","Sing 2",7.9,3919,2021-12-01,406,110,FALSE,85,83.12,"animation","universal pictures",2021
+"711","Insidious: Chapter 2",6.7,3917,2013-09-12,161,106,FALSE,5,45.44,"horror","filmdistrict",2013
+"712","Lone Survivor",7.4,3911,2013-12-24,149.3,121,FALSE,40,52.06,"war","efo films",2013
+"713","Wrath of the Titans",5.7,3908,2012-03-28,301.97,99,FALSE,150,39.13,"fantasy","thunder road",2012
+"714","Ghostbusters: Afterlife",7.5,3898,2021-11-11,191,124,FALSE,75,59.56,"fantasy","columbia pictures",2021
+"715","Mama",6.2,3896,2013-01-17,146.5,100,FALSE,15,35.44,"horror","universal pictures",2013
+"716","Bad Moms",6.5,3891,2016-07-28,183.94,100,FALSE,20,17.4,"comedy","stx films",2016
+"717","Red Dragon",7,3888,2002-10-02,209.2,124,FALSE,78,5.29,"crime","universal pictures",2002
+"718","Silent Hill",6.5,3887,2006-04-21,100.61,125,FALSE,50,23.29,"horror","tristar pictures",2006
+"719","Fast X",7.3,3881,2023-05-17,704.71,142,FALSE,340,1175.27,"action","universal pictures",2023
+"720","Changeling",7.6,3877,2008-10-24,113.4,141,FALSE,55,20.63,"crime","imagine entertainment",2008
+"721","Unbroken",7.4,3876,2014-12-25,163.44,137,FALSE,65,23.38,"drama","legendary pictures",2014
+"722","Sex Tape",5.4,3874,2014-07-17,126.07,97,FALSE,40,40.98,"comedy","escape artists",2014
+"723","Why Him?",6.4,3874,2016-12-22,118.1,111,FALSE,38,16.91,"comedy","21 laps entertainment",2016
+"724","Horrible Bosses 2",6.2,3872,2014-11-12,107.67,108,FALSE,42,29.5,"comedy","new line cinema",2014
+"725","xXx",5.9,3868,2002-08-09,277.45,124,FALSE,70,32.69,"action","columbia pictures",2002
+"726","Superman Returns",5.7,3859,2006-06-28,391.08,154,FALSE,270,31.19,"science fiction","dc comics",2006
+"727","Charlie's Angels",5.8,3857,2000-11-02,264.11,98,FALSE,92,20.97,"action","columbia pictures",2000
+"728","Atonement",7.7,3851,2007-09-07,131.02,123,FALSE,30,24.88,"drama","universal pictures",2007
+"729","The Other Guys",6.3,3831,2010-08-06,170.43,107,FALSE,100,21.51,"action","columbia pictures",2010
+"730","Joy",6.5,3828,2015-12-24,101.13,124,FALSE,60,13.85,"drama","tsg entertainment",2015
+"731","Invictus",7.2,3826,2009-12-10,122.43,134,FALSE,60,18.24,"drama","warner bros. pictures",2009
+"732","Hercules",5.8,3824,2014-07-23,244.82,99,FALSE,100,37.9,"action","paramount",2014
+"733","2 Guns",6.5,3824,2013-08-02,131.94,109,FALSE,61,26.88,"action","universal pictures",2013
+"734","Penguins of Madagascar",6.5,3818,2014-11-22,373.55,92,FALSE,132,47.59,"family","dreamworks animation",2014
+"735","Gods of Egypt",5.6,3817,2016-02-25,150.68,127,FALSE,140,32.95,"action","thunder road",2016
+"736","Fantastic Beasts: The Secrets of Dumbledore",6.7,3816,2022-04-06,406.95,142,FALSE,200,73.97,"fantasy","warner bros. pictures",2022
+"737","Vanilla Sky",6.8,3803,2001-12-10,203.39,136,FALSE,68,25.48,"mystery","vinyl films",2001
+"738","Treasure Planet",7.5,3798,2002-11-26,109.58,95,FALSE,140,31.43,"adventure","walt disney pictures",2002
+"739","Gangster Squad",6.4,3798,2013-01-09,105.2,113,FALSE,60,17.99,"crime","village roadshow pictures",2013
+"740","The Vow",7.2,3794,2012-02-05,196.11,104,FALSE,30,47.27,"drama","spyglass entertainment",2012
+"741","Resident Evil: Extinction",6.3,3792,2007-09-20,148.41,94,FALSE,45,10.49,"horror","screen gems",2007
+"742","American Wedding",6.2,3788,2003-08-01,231.45,103,FALSE,55,35.61,"comedy","loumolo & co.",2003
+"743","The Village",6.4,3786,2004-07-30,256.7,108,FALSE,60,19.16,"drama","touchstone pictures",2004
+"744","Underworld: Awakening",6.3,3777,2012-01-19,160.11,88,FALSE,70,33.03,"fantasy","screen gems",2012
+"745","Kingdom of Heaven",6.9,3772,2005-05-03,218.12,144,FALSE,130,51.55,"drama","scott free productions",2005
+"746","Oppenheimer",8.3,3766,2023-07-19,933.7,181,FALSE,100,463.38,"drama","syncopy",2023
+"747","RED 2",6.5,3748,2013-07-18,148.1,116,FALSE,84,27.75,"action","di bonaventura pictures",2013
+"748","Scary Movie 3",6,3744,2003-10-24,220.67,84,FALSE,48,38.06,"comedy","brad grey pictures",2003
+"749","Stardust",7.2,3741,2007-08-09,137.52,127,FALSE,70,22.68,"adventure","paramount",2007
+"750","Predators",6.2,3734,2010-07-03,127.23,107,FALSE,40,41.28,"science fiction","davis entertainment",2010
+"751","Space Jam: A New Legacy",6.8,3732,2021-07-08,163.69,115,FALSE,150,45.41,"family","warner bros. pictures animation",2021
+"752","The Chronicles of Riddick",6.5,3727,2004-06-11,115.77,119,FALSE,105,13.06,"action","radar pictures",2004
+"753","Underworld: Evolution",6.6,3718,2006-01-12,111.48,106,FALSE,50,33.07,"fantasy","screen gems",2006
+"754","The League of Extraordinary Gentlemen",5.9,3712,2003-07-11,179.27,110,FALSE,78,25.5,"fantasy","jd productions",2003
+"755","The Heat",6.6,3707,2013-06-27,158.67,117,FALSE,43,21.74,"action","chernin entertainment",2013
+"756","Morbius",6.1,3693,2022-03-30,167.5,105,FALSE,75,53.02,"action","columbia pictures",2022
+"757","Home",6.8,3693,2015-03-18,368.87,94,FALSE,135,29.25,"fantasy","dreamworks animation",2015
+"758","The First Purge",6,3686,2018-07-04,137.06,97,FALSE,13,43.84,"horror","platinum dunes",2018
+"759","Rush Hour 2",6.7,3686,2001-08-03,347.33,90,FALSE,90,35.32,"action","new line cinema",2001
+"760","The Last Airbender",4.7,3677,2010-06-30,319.71,103,FALSE,150,30.74,"action","paramount",2010
+"761","Knocked Up",6.3,3670,2007-06-01,219.92,129,FALSE,30,22.35,"comedy","apatow productions",2007
+"762","Resident Evil: Retribution",5.8,3669,2012-09-12,240.16,95,FALSE,65,4.21,"action","davis films/impact pictures",2012
+"763","Planet of the Apes",5.7,3667,2001-07-25,362.21,120,FALSE,100,33.65,"thriller","20th century fox",2001
+"764","Army of the Dead",6.2,3638,2021-05-14,190.7,148,FALSE,90,32.49,"action","the stone quarry",2021
+"765","Monster House",6.7,3637,2006-06-30,140.18,91,FALSE,75,40.14,"animation","imagemovers",2006
+"766","Garfield",5.7,3628,2004-06-10,200.8,80,FALSE,50,87.41,"animation","davis entertainment",2004
+"767","Elf",6.6,3626,2003-10-09,225.1,97,FALSE,32,22.52,"comedy","new line cinema",2003
+"768","Chicken Little",5.9,3616,2005-11-04,314.43,81,FALSE,150,29.34,"animation","walt disney pictures",2005
+"769","Legally Blonde",6.7,3615,2001-07-13,141.77,96,FALSE,18,27.11,"comedy","marc platt productions",2001
+"770","What Women Want",6.4,3614,2000-12-15,374.11,127,FALSE,70,27.37,"comedy","paramount",2000
+"771","Lights Out",6.3,3611,2016-07-21,148.87,81,FALSE,4.9,20.44,"horror","warner bros. pictures",2016
+"772","Dawn of the Dead",7,3608,2004-03-19,102.28,101,FALSE,26,37.21,"horror","new amsterdam entertainment",2004
+"773","Straight Outta Compton",7.8,3600,2015-08-11,201.63,147,FALSE,28,23.21,"drama","broken chair flickz",2015
+"774","Unknown",6.7,3585,2011-02-16,130.79,113,FALSE,30,33.14,"action","studio babelsberg",2011
+"775","The Hitchhiker's Guide to the Galaxy",6.7,3581,2005-04-28,104.48,109,FALSE,50,18.52,"adventure","spyglass entertainment",2005
+"776","Miss Congeniality",6.5,3580,2000-12-22,212,111,FALSE,45,27.72,"comedy","village roadshow pictures",2000
+"777","Blade: Trinity",5.9,3573,2004-12-08,128.91,123,FALSE,65,26.19,"action","marvel enterprises",2004
+"778","Billy Elliot",7.6,3561,2000-09-28,109.28,110,FALSE,5,22.18,"drama","studiocanal",2000
+"779","Puss in Boots",6.5,3558,2011-10-27,554.99,90,FALSE,130,38.05,"animation","dreamworks animation",2011
+"780","Rambo",6.7,3556,2008-01-24,113.24,92,FALSE,50,44.9,"action","nu image",2008
+"781","The Patriot",7.2,3554,2000-06-28,215.29,165,FALSE,110,35.56,"drama","centropolis entertainment",2000
+"782","47 Ronin",6.2,3553,2013-12-06,151.78,119,FALSE,175,26.56,"drama","mid atlantic films",2013
+"783","Ghost Rider: Spirit of Vengeance",5,3538,2011-12-10,132.56,96,FALSE,57,37.3,"action","columbia pictures",2011
+"784","Resident Evil: Afterlife",6,3532,2010-09-09,300.23,97,FALSE,60,2.12,"action","screen gems",2010
+"785","The Smurfs",5.8,3519,2011-07-29,563.75,103,FALSE,110,36.29,"animation","sony pictures animation",2011
+"786","Lincoln",6.9,3517,2012-11-09,275.29,149,FALSE,65,20.5,"history","dreamworks pictures",2012
+"787","Goosebumps",6.3,3516,2015-08-05,158.16,103,FALSE,58,24.93,"adventure","original film",2015
+"788","Final Destination 3",6.1,3513,2006-02-09,118.89,93,FALSE,25,37.3,"horror","new line cinema",2006
+"789","The Croods: A New Age",7.5,3508,2020-11-25,215.91,95,FALSE,65,63.46,"animation","universal pictures",2020
+"790","White Chicks",6.9,3505,2004-06-23,113.09,109,FALSE,37,54.85,"comedy","columbia pictures",2004
+"791","Me, Myself & Irene",6.6,3501,2000-06-22,149.27,116,FALSE,51,24.3,"comedy","conundrum entertainment",2000
+"792","Step Up",6.9,3498,2006-08-11,114.19,104,FALSE,12,26.83,"music","eketahuna llc",2006
+"793","How to Lose a Guy in 10 Days",6.8,3496,2003-02-07,177.5,116,FALSE,50,22.12,"comedy","paramount",2003
+"794","Flushed Away",6.3,3488,2006-10-22,178.12,84,FALSE,149,39.74,"adventure","dreamworks animation",2006
+"795","Freaky Friday",6.5,3482,2003-08-05,160.85,97,FALSE,26,33.71,"comedy","casual friday productions",2003
+"796","Vacation",6.3,3472,2015-07-28,104.38,99,FALSE,31,27.5,"comedy","new line cinema",2015
+"797","Pineapple Express",6.6,3470,2008-08-06,101.62,111,FALSE,27,17.32,"action","columbia pictures",2008
+"798","The Bucket List",7.2,3456,2007-12-25,175.37,97,FALSE,45,20.43,"drama","two ton films",2007
+"799","You Don't Mess with the Zohan",5.7,3441,2008-06-05,204.31,113,FALSE,90,36.85,"comedy","relativity media",2008
+"800","Babel",7.2,3427,2006-09-08,135.33,143,FALSE,25,16.31,"drama","babel productions inc.",2006
+"801","The Call of the Wild",7.6,3406,2020-02-19,111.2,100,FALSE,109,36.82,"adventure","3 arts entertainment",2020
+"802","The Grinch",6.8,3401,2018-11-08,508.58,85,FALSE,75,36.42,"animation","illumination",2018
+"803","Dolittle",6.6,3399,2020-01-02,251.41,101,FALSE,175,23.39,"family","universal pictures",2020
+"804","Valkyrie",6.9,3384,2008-12-25,200.28,121,FALSE,75,19.49,"drama","united artists",2008
+"805","He's Just Not That Into You",6.5,3376,2009-02-06,178.87,129,FALSE,40,27.68,"comedy","flower films",2009
+"806","The Angry Birds Movie",6.2,3369,2016-05-11,349.78,97,FALSE,73,24.75,"animation","columbia pictures",2016
+"807","Crazy Rich Asians",7.1,3364,2018-08-15,238.54,121,FALSE,30,21.43,"comedy","color force",2018
+"808","Finding Neverland",7.3,3358,2004-10-17,116.77,106,FALSE,25,18.56,"drama","miramax",2004
+"809","Paddington",7.1,3356,2014-11-24,259.21,96,FALSE,55,22.74,"comedy","heyday films",2014
+"810","The Last Witch Hunter",5.9,3355,2015-10-21,146.94,106,FALSE,90,27.72,"fantasy","neoreel",2015
+"811","Saw IV",6.2,3349,2007-10-25,139.35,93,FALSE,10,92.95,"horror","twisted pictures",2007
+"812","The Other Woman",6.4,3344,2014-04-16,196.78,109,FALSE,40,15.84,"comedy","lbi productions",2014
+"813","Up in the Air",6.9,3332,2009-09-05,166.84,110,FALSE,25,27.18,"drama","right of way films",2009
+"814","The Monuments Men",6,3324,2014-01-24,154.98,118,FALSE,70,25.23,"war","20th century fox",2014
+"815","Get Smart",6.2,3315,2008-06-19,230.69,110,FALSE,80,20.63,"action","mosaic media group",2008
+"816","Road to Perdition",7.4,3313,2002-07-12,181,117,FALSE,80,20.82,"crime","the zanuck company",2002
+"817","Trolls",6.7,3304,2016-10-13,346.86,92,FALSE,125,37.18,"family","dreamworks animation",2016
+"818","High School Musical 3: Senior Year",6.6,3304,2008-10-11,252.91,117,FALSE,11,22.25,"comedy","walt disney pictures",2008
+"819","The Ugly Truth",6.5,3302,2009-07-24,321.68,96,FALSE,38,30.08,"comedy","lakeshore entertainment",2009
+"820","Jigsaw",6.2,3301,2017-10-25,102.95,92,FALSE,10,128.03,"horror","twisted pictures",2017
+"821","Safe House",6.4,3294,2012-02-08,208.08,115,FALSE,85,22.79,"action","universal pictures",2012
+"822","The Woman in Black",6.1,3272,2012-02-03,127.73,95,FALSE,17,20.15,"drama","hammer film productions",2012
+"823","Transformers: Rise of the Beasts",7.5,3270,2023-06-06,429.8,127,FALSE,195,616.74,"action","skydance",2023
+"824","Nope",6.9,3268,2022-07-20,170.82,130,FALSE,68,50.45,"horror","monkeypaw productions",2022
+"825","Disturbia",6.7,3254,2007-04-12,117.76,105,FALSE,20,20.8,"thriller","paramount",2007
+"826","The Happening",5.4,3252,2008-06-11,163.4,91,FALSE,60,35.1,"thriller","dune entertainment",2008
+"827","Teenage Mutant Ninja Turtles: Out of the Shadows",6,3247,2016-06-01,245.62,112,FALSE,135,37.24,"action","5150 action",2016
+"828","Unstoppable",6.6,3222,2010-11-04,167.81,98,FALSE,100,27.26,"action","prospect park",2010
+"829","The Lorax",6.5,3213,2012-03-01,348.84,86,FALSE,70,94.83,"animation","universal pictures",2012
+"830","Blended",6.9,3211,2014-05-21,127.99,117,FALSE,40,43.8,"comedy","gulfstream pictures",2014
+"831","M3GAN",7.2,3210,2022-12-28,179.96,102,FALSE,12,100.62,"science fiction","atomic monster",2022
+"832","Rio 2",6.5,3207,2014-03-19,500.19,101,FALSE,103,41.76,"animation","blue sky studios",2014
+"833","Die Another Day",6,3197,2002-11-17,431.97,133,FALSE,140,28.42,"adventure","eon productions",2002
+"834","Annabelle Comes Home",6.4,3196,2019-06-26,231.25,106,FALSE,30,51.39,"horror","atomic monster",2019
+"835","DodgeBall: A True Underdog Story",6.3,3187,2004-06-18,167.72,92,FALSE,20,20.23,"comedy","mediastream vierte film gmbh & co. vermarktungs kg",2004
+"836","Battle: Los Angeles",5.7,3185,2011-03-08,211.82,116,FALSE,70,39.33,"science fiction","columbia pictures",2011
+"837","Angel Has Fallen",6.6,3172,2019-08-21,146.66,122,FALSE,40,41.25,"action","campbell grobman films",2019
+"838","Rocky Balboa",6.8,3171,2006-12-20,155.93,101,FALSE,24,35.6,"drama","rogue marble",2006
+"839","This Means War",6.2,3164,2012-02-14,156.97,98,FALSE,65,23.17,"action","dune entertainment",2012
+"840","Spy Kids",5.8,3161,2001-03-18,147.93,88,FALSE,35,45.58,"action","troublemaker studios",2001
+"841","War Horse",7.3,3157,2011-12-25,177.58,146,FALSE,66,20.49,"war","touchstone pictures",2011
+"842","Scream 3",6,3157,2000-02-03,161.83,116,FALSE,40,41.91,"horror","craven-maddalena films",2000
+"843","Identity Thief",5.9,3156,2013-02-07,173.97,111,FALSE,35,16.85,"comedy","stuber productions",2013
+"844","Johnny English",6.3,3140,2003-03-14,160.58,88,FALSE,40,15.79,"adventure","working title films",2003
+"845","The BFG",6.3,3136,2016-06-01,195.24,117,FALSE,140,30.08,"adventure","walt disney pictures",2016
+"846","The Day the Earth Stood Still",5.6,3133,2008-12-10,233.09,104,FALSE,80,26.56,"drama","dune entertainment iii",2008
+"847","Forgetting Sarah Marshall",6.5,3132,2008-04-17,105.17,111,FALSE,30,22.66,"comedy","universal pictures",2008
+"848","P.S. I Love You",7.2,3124,2007-11-15,156.84,126,FALSE,30,28.69,"drama","wendy finerman productions",2007
+"849","Pitch Perfect 3",6.5,3124,2017-12-20,184.72,93,FALSE,45,21.24,"comedy","gold circle films",2017
+"850","Insidious: Chapter 3",6.3,3123,2015-05-28,112.98,97,FALSE,10,31.5,"horror","blumhouse productions",2015
+"851","Mamma Mia! Here We Go Again",7.1,3120,2018-07-09,395.04,113,FALSE,75,25.16,"comedy","littlestar",2018
+"852","Saving Mr. Banks",7.4,3120,2013-11-29,112.54,125,FALSE,35,20.94,"comedy","hopscotch features",2013
+"853","Closer",6.8,3114,2004-12-03,115.51,104,FALSE,27,20.57,"drama","columbia pictures",2004
+"854","Saw V",6.2,3102,2008-10-23,113.86,95,FALSE,10.8,84.54,"horror","twisted pictures",2008
+"855","Mary Poppins Returns",6.5,3101,2018-12-13,348.81,131,FALSE,130,17.19,"fantasy","walt disney pictures",2018
+"856","Transporter 3",6.1,3097,2008-11-26,108.98,104,FALSE,30,25.01,"action","grive productions",2008
+"857","Final Destination 5",6.1,3096,2011-08-12,157.89,92,FALSE,47,37.98,"horror","parallel zide",2011
+"858","Abraham Lincoln: Vampire Hunter",5.7,3093,2012-06-20,116.47,105,FALSE,69,44.46,"action","bazelevs production",2012
+"859","Mechanic: Resurrection",6,3083,2016-08-25,125.73,98,FALSE,40,29.25,"action","davis films",2016
+"860","A Dog's Purpose",7.6,3078,2017-01-19,205.04,100,FALSE,22,30.26,"adventure","amblin entertainment",2017
+"861","The Longest Yard",6.6,3072,2005-05-27,190.32,113,FALSE,82,40.73,"comedy","callahan filmworks",2005
+"862","Chocolat",7,3067,2000-12-22,152.5,121,FALSE,25,17.44,"comedy","fat free",2000
+"863","Pompeii",5.5,3062,2014-02-18,117.83,105,FALSE,100,20.62,"action","don carmody productions",2014
+"864","Minions: The Rise of Gru",7.4,3060,2022-06-29,939.63,87,FALSE,85,81.38,"animation","universal pictures",2022
+"865","Lightyear",7.1,3053,2022-06-15,226.43,105,FALSE,200,53.07,"animation","pixar",2022
+"866","Turbo",6.2,3049,2013-07-11,282.57,96,FALSE,135,26.01,"animation","dreamworks animation",2013
+"867","How to Be Single",6.2,3048,2016-02-08,112.34,110,FALSE,38,25.22,"comedy","new line cinema",2016
+"868","Johnny English Reborn",6.2,3039,2011-09-15,160.08,101,FALSE,45,17.64,"crime","working title films",2011
+"869","Eragon",5.1,3039,2006-12-14,249.29,104,FALSE,100,24.52,"fantasy","fox 2000 pictures",2006
+"870","Death on the Nile",6.5,3039,2022-02-09,137.31,127,FALSE,90,40.3,"mystery","scott free productions",2022
+"871","Horton Hears a Who!",6.5,3033,2008-03-03,298.57,86,FALSE,85,32.67,"animation","blue sky studios",2008
+"872","Little Fockers",5.6,3030,2010-12-21,310.65,98,FALSE,100,18.76,"comedy","universal pictures",2010
+"873","Mirror Mirror",5.9,3030,2012-03-15,183.02,106,FALSE,85,21.24,"adventure","misher films",2012
+"874","Alexander",5.9,3024,2004-11-21,167.3,175,FALSE,155,22.68,"war","warner bros. pictures",2004
+"875","The Princess Diaries 2: Royal Engagement",6.7,3020,2004-08-06,134.73,113,FALSE,40,28.94,"comedy","brownhouse productions",2004
+"876","The Green Hornet",5.6,2987,2011-01-12,227.82,119,FALSE,120,20.83,"action","original film",2011
+"877","Scary Movie 4",5.5,2987,2006-04-12,178.26,83,FALSE,45,43.4,"comedy","dimension films",2006
+"878","Pet Sematary",5.7,2966,2019-04-04,113.12,101,FALSE,21,24.95,"horror","di bonaventura pictures",2019
+"879","The Lost City",6.6,2964,2022-03-24,192.91,112,FALSE,74,53.33,"action","paramount",2022
+"880","Daddy's Home",6.3,2960,2015-12-25,242.79,96,FALSE,50,19.52,"comedy","paramount",2015
+"881","The Final Destination",5.6,2960,2009-08-26,186.17,82,FALSE,40,36.13,"horror","parallel zide",2009
+"882","The Flash",6.9,2959,2023-06-13,268.38,144,FALSE,300,480.39,"action","warner bros. pictures",2023
+"883","Life As We Know It",6.9,2949,2010-10-02,105.73,114,FALSE,38,22.25,"comedy","josephson entertainment",2010
+"884","Dumb and Dumber To",5.5,2922,2014-11-12,169.84,110,FALSE,40,37.44,"comedy","new line cinema",2014
+"885","Surrogates",6.1,2920,2009-09-24,122.44,89,FALSE,80,19.72,"science fiction","wintergreen productions",2009
+"886","27 Dresses",6.4,2916,2008-01-10,160.26,111,FALSE,30,14.88,"comedy","fox 2000 pictures",2008
+"887","Rush Hour 3",6.4,2903,2007-08-08,258.02,91,FALSE,140,42.86,"action","new line cinema",2007
+"888","Cloudy with a Chance of Meatballs 2",6.4,2898,2013-09-26,248.38,95,FALSE,78,33.82,"animation","columbia pictures",2013
+"889","Valentine's Day",5.9,2889,2010-02-10,216.49,125,FALSE,52,16.53,"comedy","karz entertainment",2010
+"890","The Taking of Pelham 1 2 3",6.3,2881,2009-06-10,150.17,106,FALSE,100,26.24,"crime","escape artists",2009
+"891","The Scorpion King",5.6,2878,2002-04-18,165.33,92,FALSE,60,22.87,"action","universal pictures",2002
+"892","Resident Evil: The Final Chapter",6.1,2860,2016-12-23,312.24,107,FALSE,40,2.15,"action","screen gems",2016
+"893","Anger Management",6.1,2857,2003-04-11,195.75,106,FALSE,75,28.06,"comedy","columbia pictures",2003
+"894","Austin Powers in Goldmember",6,2857,2002-07-26,296.94,93,FALSE,63,30.92,"comedy","eric's boy",2002
+"895","Erin Brockovich",7.4,2855,2000-03-17,256.27,131,FALSE,52,22.5,"drama","jersey films",2000
+"896","Bride Wars",6.2,2851,2009-01-09,115.38,89,FALSE,30,24.46,"comedy","fox 2000 pictures",2009
+"897","Step Brothers",6.6,2850,2008-07-25,128.11,98,FALSE,65,20.38,"comedy","columbia pictures",2008
+"898","The Pacifier",6.1,2845,2005-03-04,198.64,95,FALSE,56,29.03,"comedy","walt disney pictures",2005
+"899","Master and Commander: The Far Side of the World",7.1,2843,2003-11-14,212.01,138,FALSE,150,20.33,"adventure","universal pictures",2003
+"900","The Emoji Movie",5.5,2832,2017-07-23,216.91,86,FALSE,50,26.72,"animation","columbia pictures",2017
+"901","What Happens in Vegas",6.1,2828,2008-05-07,219.38,99,FALSE,35,29.63,"comedy","penn station entertainment",2008
+"902","Charlie's Angels: Full Throttle",5.5,2811,2003-06-27,259.18,106,FALSE,120,28.98,"action","wonderland sound and vision",2003
+"903","Nanny McPhee",6.6,2802,2005-10-21,123.28,97,FALSE,25,29.48,"fantasy","metro-goldwyn-mayer",2005
+"904","The Reader",7.4,2791,2008-12-10,108.9,124,FALSE,32,20.8,"drama","the weinstein company",2008
+"905","The Secret Life of Pets 2",7,2790,2019-05-24,155.15,86,FALSE,80,36.12,"adventure","universal pictures",2019
+"906","Memoirs of a Geisha",7.7,2790,2005-12-06,162.24,146,FALSE,85,21.39,"drama","columbia pictures",2005
+"907","A Knight's Tale",6.9,2790,2001-05-11,117.49,132,FALSE,65,24.22,"adventure","columbia pictures",2001
+"908","Elvis",7.6,2789,2022-06-22,288.67,159,FALSE,85,38.87,"drama","bazmark films",2022
+"909","Magic Mike",6.2,2778,2012-06-28,167.22,110,FALSE,7,15.88,"drama","iron horse entertainment",2012
+"910","House of Gucci",6.6,2767,2021-11-24,153.24,158,FALSE,75,26.06,"drama","scott free productions",2021
+"911","Body of Lies",6.6,2765,2008-10-09,113.28,128,FALSE,70,19.83,"action","scott free productions",2008
+"912","Hustlers",6.5,2754,2019-09-12,157.6,110,FALSE,20,19.56,"drama","annapurna pictures",2019
+"913","Bridget Jones's Baby",6.4,2744,2016-09-14,211.95,123,FALSE,35,18.59,"comedy","working title films",2016
+"914","Scream",6.7,2739,2022-01-12,140.04,114,FALSE,24,107.04,"horror","paramount",2022
+"915","10,000 BC",5.4,2730,2008-03-04,269.78,109,FALSE,105,26.68,"adventure","centropolis entertainment",2008
+"916","The Butler",7.3,2723,2013-08-16,115.92,132,FALSE,25,15.38,"drama","follow through productions",2013
+"917","Tower Heist",6.1,2720,2011-11-02,152.93,104,FALSE,75,26.59,"action","universal pictures",2011
+"918","Mr. Popper's Penguins",5.9,2712,2011-06-17,187.36,94,FALSE,55,20.12,"comedy","davis entertainment",2011
+"919","The Grudge",5.9,2705,2004-10-22,183.47,92,FALSE,10,19.41,"horror","vertigo entertainment",2004
+"920","Arthur and the Invisibles",6.4,2689,2006-12-13,107.94,94,FALSE,86,19.81,"adventure","canal+",2006
+"921","Alvin and the Chipmunks: The Squeakquel",5.6,2688,2009-12-21,443.14,88,FALSE,75,29.06,"comedy","fox 2000 pictures",2009
+"922","Shallow Hal",6.2,2685,2001-11-01,141.07,114,FALSE,40,22.57,"comedy","20th century fox",2001
+"923","Insidious: The Last Key",6.3,2679,2018-01-03,167.89,103,FALSE,10,102.09,"horror","stage 6 films",2018
+"924","Instant Family",7.5,2676,2018-11-16,120.99,118,FALSE,48,21.87,"comedy","closest to the hole productions",2018
+"925","Jack Ryan: Shadow Recruit",6.1,2666,2014-01-15,135.51,105,FALSE,60,22.91,"action","di bonaventura pictures",2014
+"926","Saw 3D",6,2664,2010-10-22,136.15,90,FALSE,20,103.71,"horror","lionsgate",2010
+"927","The Legend of Zorro",6.1,2659,2005-10-24,142.4,129,FALSE,75,27.53,"action","amblin entertainment",2005
+"928","The Bounty Hunter",5.8,2659,2010-03-16,136.33,110,FALSE,40,14.97,"comedy","original film",2010
+"929","Ferdinand",7.2,2652,2017-12-09,295.04,108,FALSE,111,33.93,"animation","blue sky studios",2017
+"930","Along Came Polly",6,2642,2004-01-16,178.31,90,FALSE,42,23.47,"comedy","jersey films",2004
+"931","Bedtime Stories",6.1,2639,2008-12-24,212.87,99,FALSE,80,20.65,"fantasy","walt disney pictures",2008
+"932","Date Night",6.1,2636,2010-04-08,152.26,97,FALSE,55,16.58,"comedy","dune entertainment",2010
+"933","Walk the Line",7.5,2629,2005-09-13,186.8,136,FALSE,28,17.93,"drama","mars media beteiligungs",2005
+"934","Eagle Eye",6.4,2629,2008-09-25,178.8,118,FALSE,80,38.97,"mystery","kmp film invest",2008
+"935","Mr. Bean's Holiday",6.3,2619,2007-03-22,232.23,90,FALSE,25,22.84,"family","tiger aspect",2007
+"936","The SpongeBob SquarePants Movie",7,2618,2004-11-14,140.16,87,FALSE,30,44.87,"family","paramount",2004
+"937","Beowulf",5.9,2609,2007-11-05,195.74,115,FALSE,70,27.46,"adventure","paramount",2007
+"938","Pan",6,2607,2015-09-24,128.39,111,FALSE,150,14.58,"fantasy","moving picture company",2015
+"939","Cheaper by the Dozen",6.3,2597,2003-12-24,190.21,98,FALSE,40,18.28,"comedy","20th century fox",2003
+"940","Let's Be Cops",6.5,2591,2014-08-13,136.62,104,FALSE,17,42.34,"comedy","wideawake",2014
+"941","Aliens vs Predator: Requiem",5.2,2588,2007-12-25,130.29,94,FALSE,40,47.16,"fantasy","dune entertainment",2007
+"942","Meet the Robinsons",6.9,2588,2007-03-23,169.33,95,FALSE,150,59.73,"animation","walt disney pictures",2007
+"943","Spies in Disguise",7.6,2581,2019-12-04,171.62,102,FALSE,100,20.92,"animation","chernin entertainment",2019
+"944","Bridget Jones: The Edge of Reason",6.2,2574,2004-11-10,262.5,108,FALSE,40,15.4,"comedy","miramax",2004
+"945","The Descendants",6.8,2550,2011-09-09,177.24,115,FALSE,20,15.29,"comedy","dune entertainment",2011
+"946","The Brothers Grimm",5.8,2546,2005-08-26,105.32,118,FALSE,88,23.42,"adventure","revolution sun studios",2005
+"947","The Exorcism of Emily Rose",6.5,2543,2005-09-09,145.17,122,FALSE,19,30.07,"crime","lakeshore entertainment",2005
+"948","Epic",6.5,2538,2013-05-15,268.43,102,FALSE,100,25.18,"animation","blue sky studios",2013
+"949","Open Season",6.1,2526,2006-09-27,197.31,86,FALSE,85,21.89,"animation","sony pictures animation",2006
+"950","Get Hard",6,2520,2015-03-26,111.81,100,FALSE,40,12.49,"comedy","gary sanchez productions",2015
+"951","Ouija",5.2,2511,2014-10-24,103.59,89,FALSE,5,27.39,"horror","white noise factory",2014
+"952","The Break-Up",5.9,2509,2006-06-01,205.67,106,FALSE,52,15.92,"romance","universal pictures",2006
+"953","The Lake House",7,2507,2006-06-16,114.83,99,FALSE,40,21.06,"drama","sound for film",2006
+"954","We Bought a Zoo",6.8,2502,2011-12-08,120.08,124,FALSE,50,20.27,"drama","dune entertainment",2011
+"955","Scooby-Doo 2: Monsters Unleashed",6,2498,2004-03-24,181.47,93,FALSE,80,22.29,"mystery","mosaic media group",2004
+"956","A Nightmare on Elm Street",5.5,2485,2010-04-30,115.66,95,FALSE,35,30.18,"horror","platinum dunes",2010
+"957","King Arthur",6.3,2479,2004-07-07,203.57,126,FALSE,120,23.03,"adventure","jerry bruckheimer films",2004
+"958","The Three Musketeers",5.8,2476,2011-08-31,132.27,110,FALSE,75,27.12,"adventure","summit entertainment",2011
+"959","Confessions of a Shopaholic",6.4,2472,2009-02-05,108.33,104,FALSE,40,23.89,"comedy","touchstone pictures",2009
+"960","Elemental",7.8,2467,2023-06-14,486.8,102,FALSE,200,1008.94,"animation","walt disney pictures",2023
+"961","Peter Pan",7.2,2459,2003-12-18,121.98,113,FALSE,100,22.17,"adventure","revolution studios",2003
+"962","Trainwreck",5.8,2446,2015-07-17,140.8,125,FALSE,35,23.82,"comedy","universal pictures",2015
+"963","Swordfish",6.2,2444,2001-06-08,147.08,99,FALSE,102,20.7,"action","village roadshow pictures",2001
+"964","Wallace & Gromit: The Curse of the Were-Rabbit",7,2440,2005-09-04,192.61,85,FALSE,30,34.48,"adventure","aardman",2005
+"965","The Spiderwick Chronicles",6.6,2429,2008-02-14,164.17,95,FALSE,90,25.37,"family","paramount",2008
+"966","Scary Stories to Tell in the Dark",6.5,2423,2019-08-08,104.55,108,FALSE,25,20.78,"horror","1212 entertainment",2019
+"967","Shazam! Fury of the Gods",6.7,2416,2023-03-15,133.44,130,FALSE,125,143.17,"comedy","new line cinema",2023
+"968","Remember the Titans",7.6,2415,2000-09-29,136.71,113,FALSE,30,25.37,"drama","jerry bruckheimer films",2000
+"969","The Texas Chainsaw Massacre",6.2,2408,2003-05-21,107.36,98,FALSE,9.5,45.72,"horror","focus features",2003
+"970","Water for Elephants",6.9,2397,2011-04-15,117.09,122,FALSE,38,14.3,"drama","big screen productions",2011
+"971","The Foreigner",7,2389,2017-09-28,145.37,113,FALSE,35,43.2,"action","sparkle roll media",2017
+"972","Flightplan",6.4,2383,2005-09-22,223.39,98,FALSE,55,18.26,"thriller","touchstone pictures",2005
+"973","Immortals",6,2382,2011-11-10,226.9,110,FALSE,75,24.89,"fantasy","relativity media",2011
+"974","Chicago",7.1,2375,2002-12-10,306.78,113,FALSE,45,16.27,"comedy","miramax",2002
+"975","Halloween Kills",6.5,2371,2021-10-14,133.42,105,FALSE,20,37.85,"horror","blumhouse productions",2021
+"976","Munich",7.1,2359,2005-12-23,130.98,164,FALSE,70,18.49,"drama","universal pictures",2005
+"977","Seventh Son",5.5,2358,2014-12-12,114.18,102,FALSE,95,30.93,"adventure","legendary pictures",2014
+"978","Smile",6.7,2352,2022-09-23,216.14,115,FALSE,17,73.25,"horror","paramount players",2022
+"979","Anchorman 2: The Legend Continues",6.1,2347,2013-12-18,173.65,119,FALSE,50,19.28,"comedy","gary sanchez productions",2013
+"980","Daddy's Home 2",6.3,2346,2017-11-09,180.61,100,FALSE,69,26.19,"comedy","red granite pictures",2017
+"981","Dungeons & Dragons: Honor Among Thieves",7.5,2329,2023-03-23,208.18,134,FALSE,151,126.33,"adventure","entertainment one",2023
+"982","ParaNorman",7,2329,2012-08-03,107.14,90,FALSE,60,29.36,"family","laika entertainment",2012
+"983","Freddy vs. Jason",6,2318,2003-08-15,116.64,97,FALSE,30,35.89,"horror","yannix technology corporation",2003
+"984","Hollow Man",5.9,2310,2000-08-04,190.21,112,FALSE,95,30.11,"action","columbia pictures",2000
+"985","S.W.A.T.",6.1,2304,2003-08-08,116.64,117,FALSE,80,27.18,"action","original film",2003
+"986","Dinosaur",6.5,2293,2000-05-19,354.25,82,FALSE,127.5,45.06,"family","walt disney pictures",2000
+"987","Evil Dead Rise",7,2292,2023-04-12,146.73,96,FALSE,15,188.13,"thriller","new line cinema",2023
+"988","Paul Blart: Mall Cop",5.4,2292,2009-01-15,183.29,91,FALSE,26,14.16,"action","hey eddie",2009
+"989","Tom & Jerry",6.9,2289,2021-02-10,136.54,101,FALSE,50,43.03,"comedy","warner bros. pictures animation",2021
+"990","The Time Traveler's Wife",6.9,2281,2009-08-14,101.34,108,FALSE,39,25.51,"drama","new line cinema",2009
+"991","The Boss Baby: Family Business",7.4,2274,2021-07-01,146.75,107,FALSE,82,69.14,"animation","dreamworks animation",2021
+"992","Eat Pray Love",6.2,2272,2010-08-12,204.59,133,FALSE,60,21.67,"drama","red om films",2010
+"993","Johnny English Strikes Again",6.3,2266,2018-09-13,158.97,89,FALSE,25,21.36,"action","working title films",2018
+"994","Surf's Up",6.4,2260,2007-06-08,149.04,85,FALSE,85,24.31,"animation","columbia pictures",2007
+"995","Paranormal Activity 2",5.8,2259,2010-10-20,177.51,91,FALSE,3,19.28,"horror","paramount",2010
+"996","Midway",7.2,2254,2019-11-06,127.42,138,FALSE,100,33.58,"action","agc studios",2019
+"997","Stuart Little 2",5.7,2226,2002-07-19,169.96,78,FALSE,120,21.93,"family","columbia pictures",2002
+"998","The Curse of La Llorona",5.7,2226,2019-04-17,122.03,93,FALSE,9,43.04,"horror","atomic monster",2019
+"999","Return to Never Land",6.5,2217,2002-02-14,109.86,72,FALSE,20,21.72,"adventure","disney television animation",2002
+"1000","Gulliver's Travels",5.2,2212,2010-12-23,237.38,85,FALSE,112,17.6,"family","dune entertainment",2010
+"1001","Fun with Dick and Jane",6.2,2211,2005-12-21,202.03,90,FALSE,100,19.32,"comedy","jc 23 entertainment",2005
+"1002","Mr. Peabody & Sherman",6.7,2193,2014-02-07,272.91,92,FALSE,145,25.53,"animation","pacific data images",2014
+"1003","John Q",7.1,2180,2002-02-15,102.24,116,FALSE,36,24.72,"drama","evolution entertainment",2002
+"1004","The SpongeBob Movie: Sponge Out of Water",6.1,2172,2015-01-28,311.59,93,FALSE,74,30.23,"family","paramount animation",2015
+"1005","Step Up 2: The Streets",6.7,2160,2008-02-14,150.82,98,FALSE,23,24.05,"music","touchstone pictures",2008
+"1006","Just Like Heaven",6.9,2159,2005-09-16,102.85,95,FALSE,58,20.62,"drama","macdonald/parkes productions",2005
+"1007","Ghosts of Girlfriends Past",6,2158,2009-05-01,102.22,115,FALSE,37.5,18.38,"fantasy","panther",2009
+"1008","Storks",6.6,2156,2016-09-22,182.38,87,FALSE,70,17.38,"adventure","ratpac entertainment",2016
+"1009","The Little Mermaid",6.5,2148,2023-05-18,569.24,135,FALSE,250,353.54,"adventure","walt disney pictures",2023
+"1010","Legend of the Guardians: The Owls of Ga'Hoole",6.8,2143,2010-07-10,140.07,97,FALSE,80,29.2,"animation","animal logic",2010
+"1011","Last Christmas",7.2,2140,2019-11-07,121.55,102,FALSE,30,13.79,"comedy","universal pictures",2019
+"1012","I Now Pronounce You Chuck & Larry",6,2135,2007-07-12,187.13,115,FALSE,85,17.55,"comedy","universal pictures",2007
+"1013","Australia",6.6,2127,2008-11-18,211.79,165,FALSE,130,25.22,"adventure","bazmark films",2008
+"1014","Point Break",5.9,2125,2015-12-03,133.72,113,FALSE,105,22.61,"action","studio babelsberg",2015
+"1015","Big Momma's House",5.8,2125,2000-05-31,173.96,98,FALSE,30,31.59,"crime","regency enterprises",2000
+"1016","The Addams Family",6.6,2124,2019-10-10,204.39,86,FALSE,40,32.87,"family","cinesite animation",2019
+"1017","Herbie Fully Loaded",5.7,2121,2005-06-22,144.15,100,FALSE,50,31.99,"comedy","walt disney pictures",2005
+"1018","Wild Hogs",5.9,2116,2007-03-02,253.63,100,FALSE,0,29.46,"action","touchstone pictures",2007
+"1019","Starsky & Hutch",5.8,2113,2004-03-05,170.27,101,FALSE,60,18.52,"comedy","dimension films",2004
+"1020","The Ring Two",5.7,2107,2005-03-10,161.45,110,FALSE,50,21,"drama","dreamworks pictures",2005
+"1021","Ride Along",6.2,2103,2014-01-07,154,99,FALSE,25,14.63,"action","rainforest entertainment",2014
+"1022","Norbit",5.6,2100,2007-02-08,159.31,102,FALSE,10,46.28,"comedy","tollin/robbins productions",2007
+"1023","Gothika",6.1,2098,2003-11-21,141.59,98,FALSE,40,20.69,"horror","dark castle entertainment",2003
+"1024","Paddington 2",7.5,2092,2017-11-09,227.3,104,FALSE,40,18.83,"adventure","heyday films",2017
+"1025","Pete's Dragon",6.4,2080,2016-08-10,143.7,103,FALSE,65,14.49,"adventure","whitaker entertainment",2016
+"1026","Mr. Deeds",5.8,2064,2002-06-28,171.27,96,FALSE,50,20.41,"comedy","new line cinema",2002
+"1027","About a Boy",6.7,2054,2002-04-26,129,101,FALSE,27,12.67,"drama","universal pictures",2002
+"1028","The Time Machine",6.2,2051,2002-03-04,123.73,96,FALSE,80,25.9,"science fiction","dreamworks pictures",2002
+"1029","The Perfect Storm",6.4,2044,2000-06-29,325.76,130,FALSE,120,28.33,"action","baltimore spring creek productions",2000
+"1030","The Smurfs 2",5.8,2043,2013-07-30,347.43,105,FALSE,105,33.19,"fantasy","neoreel",2013
+"1031","Meg 2: The Trench",6.9,2034,2023-08-02,384.06,116,FALSE,129,1567.27,"action","apelles entertainment",2023
+"1032","Spy Kids 3-D: Game Over",5.1,2034,2003-07-25,197.01,84,FALSE,38,40.71,"action","dimension films",2003
+"1033","Paranormal Activity 3",5.9,2031,2011-10-19,207.04,94,FALSE,5,32.18,"horror","paramount",2011
+"1034","The Amityville Horror",6.1,2018,2005-04-14,108.05,90,FALSE,19,30.75,"horror","platinum dunes",2005
+"1035","The House with a Clock in Its Walls",6.2,2009,2018-09-15,131.52,105,FALSE,42,18.08,"fantasy","amblin entertainment",2018
+"1036","Alvin and the Chipmunks: Chipwrecked",5.7,2006,2011-12-14,342.7,87,FALSE,75,32.04,"comedy","fox 2000 pictures",2011
+"1037","Spy Kids 2: The Island of Lost Dreams",5.6,2005,2002-08-07,119.72,100,FALSE,38,39.2,"action","dimension films",2002
+"1038","New Year's Eve",5.9,2002,2011-12-08,142.04,118,FALSE,56,29.92,"comedy","new line cinema",2011
+"1039","Last Vegas",6.4,1995,2013-10-31,134.4,105,FALSE,28,20.12,"comedy","gidden media",2013
+"1040","Cinderella Man",7.5,1990,2005-06-02,108.54,144,FALSE,88,16.79,"romance","universal pictures",2005
+"1041","Creed III",7.2,1987,2023-03-01,275.25,116,FALSE,75,164.99,"drama","metro-goldwyn-mayer",2023
+"1042","Garfield: A Tail of Two Kitties",5.5,1984,2006-06-15,141.7,78,FALSE,60,24.91,"animation","20th century fox",2006
+"1043","Sex and the City",6.6,1979,2008-05-12,418.77,145,FALSE,65,36.28,"comedy","darren star productions",2008
+"1044","The Lego Movie 2: The Second Part",6.7,1968,2019-02-06,199.6,106,FALSE,99,20.58,"action","vertigo entertainment",2019
+"1045","Poseidon",5.8,1966,2006-05-10,181.67,98,FALSE,160,18.28,"adventure","virtual studios",2006
+"1046","Daddy Day Care",5.9,1965,2003-05-09,164.43,92,FALSE,60,21.54,"comedy","revolution studios",2003
+"1047","My Big Fat Greek Wedding",6.5,1959,2002-04-19,368.74,95,FALSE,5,36.38,"comedy","gold circle films",2002
+"1048","Julie & Julia",6.7,1945,2009-08-06,129.54,123,FALSE,40,15.14,"romance","columbia pictures",2009
+"1049","Jack and Jill",4.4,1938,2011-11-11,149.67,91,FALSE,79,24.94,"comedy","broken road productions",2011
+"1050","Step Up Revolution",6.9,1937,2012-07-26,140.47,99,FALSE,33,27.48,"music","summit entertainment",2012
+"1051","Traffic",7.1,1928,2000-03-23,207.52,147,FALSE,48,23.8,"thriller","usa films",2000
+"1052","A Bad Moms Christmas",6.3,1923,2017-08-04,130.56,104,FALSE,28,13.99,"comedy","stx films",2017
+"1053","Hannah Montana: The Movie",6.6,1907,2009-04-10,155.55,102,FALSE,35,18.83,"comedy","it's a laugh productions",2009
+"1054","Office Christmas Party",5.7,1904,2016-11-25,114.5,105,FALSE,45,18.02,"comedy","bluegrass films",2016
+"1055","Coyote Ugly",6.2,1903,2000-07-30,113.92,100,FALSE,45,21.96,"comedy","touchstone pictures",2000
+"1056","Two Weeks Notice",6.4,1893,2002-12-19,199.04,101,FALSE,60,18.31,"comedy","fortis films",2002
+"1057","Into the Storm",6,1891,2014-08-06,160.6,89,FALSE,50,25.72,"action","ratpac entertainment",2014
+"1058","Planet 51",5.9,1891,2009-11-19,104.95,91,FALSE,70,19.96,"animation","ilion animation studios",2009
+"1059","Vantage Point",6.4,1878,2008-02-01,151.16,90,FALSE,40,18.77,"drama","kanzaman productions",2008
+"1060","Abominable",7.5,1877,2019-09-19,190.3,97,FALSE,75,27.91,"family","dreamworks animation",2019
+"1061","Spy Game",6.9,1873,2001-11-18,143.05,126,FALSE,115,17.95,"action","universal pictures",2001
+"1062","The Game Plan",6.5,1873,2007-09-28,147.88,110,FALSE,22,16.42,"comedy","monkey dance productions",2007
+"1063","Cheaper by the Dozen 2",6.1,1862,2005-12-21,129.18,94,FALSE,60,29.42,"comedy","20th century fox",2005
+"1064","Home on the Range",6,1862,2004-04-02,145.36,76,FALSE,110,27.88,"animation","walt disney pictures",2004
+"1065","A Man Called Otto",7.8,1857,2022-12-28,108.96,126,FALSE,50,60.75,"comedy","playtone",2022
+"1066","We Were Soldiers",7.1,1851,2002-03-01,114.66,138,FALSE,75,22.28,"action","wheelhouse entertainment",2002
+"1067","Tooth Fairy",5.5,1849,2010-01-14,112.46,101,FALSE,48,18.59,"comedy","dune entertainment",2010
+"1068","The Haunted Mansion",5.6,1847,2003-11-26,182.29,88,FALSE,90,34.82,"thriller","doom buggy productions",2003
+"1069","Scream VI",7.2,1836,2023-03-08,168.96,123,FALSE,35,231.85,"horror","radio silence",2023
+"1070","Couples Retreat",5.5,1817,2009-09-19,171.84,113,FALSE,70,25.32,"comedy","stuber productions",2009
+"1071","Gnomeo & Juliet",5.8,1809,2011-01-13,189.71,84,FALSE,36,25.85,"animation","touchstone pictures",2011
+"1072","Step Up 3D",6.8,1800,2010-08-04,159.29,107,FALSE,30,28.58,"drama","touchstone pictures",2010
+"1073","The Pink Panther",5.8,1787,2006-02-10,158.85,93,FALSE,65,21.62,"comedy","metro-goldwyn-mayer",2006
+"1074","Ray",7.4,1780,2004-10-29,124.73,152,FALSE,40,30.16,"drama","bristol bay productions",2004
+"1075","Road Trip",6.2,1762,2000-05-19,119.75,93,FALSE,16,21.7,"comedy","the montecito picture company",2000
+"1076","The Tuxedo",5.7,1762,2002-09-27,104.39,98,FALSE,60,18.8,"thriller","vanguard films",2002
+"1077","Maid in Manhattan",6.1,1755,2002-12-13,154.91,105,FALSE,55,21.19,"comedy","red om films",2002
+"1078","Indiana Jones and the Dial of Destiny",6.7,1748,2023-06-28,382.89,155,FALSE,294.7,579.25,"adventure","lucasfilm ltd.",2023
+"1079","Paranormal Activity 4",5.4,1739,2012-10-17,142.8,97,FALSE,5,21.36,"horror","room 101",2012
+"1080","G-Force",5.4,1738,2009-07-24,292.82,88,FALSE,150,19.65,"animation","walt disney pictures",2009
+"1081","The Family Man",6.8,1736,2000-12-12,124.7,125,FALSE,60,19.48,"comedy","beacon pictures",2000
+"1082","Miss Congeniality 2: Armed and Fabulous",5.7,1709,2005-03-11,101.39,115,FALSE,0,22.73,"action","village roadshow pictures",2005
+"1083","A Wrinkle in Time",5.1,1704,2018-03-08,132.68,109,FALSE,103,12.03,"adventure","whitaker entertainment",2018
+"1084","Where the Wild Things Are",6.5,1703,2009-10-16,100.14,101,FALSE,100,20.45,"family","legendary pictures",2009
+"1085","Along Came a Spider",6.3,1702,2001-04-06,105.18,104,FALSE,60,31.67,"crime","paramount",2001
+"1086","Magic Mike XXL",6.2,1685,2015-07-01,117.81,115,FALSE,14.8,16.85,"comedy","warner bros. pictures",2015
+"1087","The Whole Nine Yards",6.4,1685,2000-02-18,106.37,98,FALSE,41.3,17.7,"comedy","franchise pictures",2000
+"1088","Good Boys",6.8,1675,2019-08-14,111.04,89,FALSE,20,18.86,"comedy","good universe",2019
+"1089","The Bad Guys",7.6,1666,2022-03-17,250.16,100,FALSE,80,54.78,"animation","dreamworks animation",2022
+"1090","What Lies Beneath",6.4,1655,2000-07-21,291.42,130,FALSE,100,18.88,"drama","imagemovers",2000
+"1091","Peter Rabbit",6.7,1636,2018-02-07,351.27,93,FALSE,50,16.75,"animation","columbia pictures",2018
+"1092","Blades of Glory",6.1,1620,2007-03-30,118.2,93,FALSE,53,16.44,"comedy","dreamworks pictures",2007
+"1093","Clifford the Big Red Dog",7.2,1618,2021-11-10,107.35,97,FALSE,64,47.62,"family","paramount",2021
+"1094","Cold Mountain",6.9,1606,2003-12-24,173.01,154,FALSE,79,22.45,"drama","miramax",2003
+"1095","The Texas Chainsaw Massacre: The Beginning",6.1,1605,2006-10-05,107.36,91,FALSE,16,38.53,"horror","texas chainsaw productions",2006
+"1096","The Iron Lady",6.4,1604,2011-12-26,115.89,105,FALSE,13,12.25,"history","uk film council",2011
+"1097","The Campaign",5.8,1602,2012-08-09,104.91,85,FALSE,95,14.31,"comedy","location gourmet",2012
+"1098","Miami Vice",6,1599,2006-07-27,163.79,132,FALSE,135,18.41,"action","metropolis films",2006
+"1099","Eight Below",7,1583,2006-02-17,120.46,120,FALSE,40,16,"adventure","walt disney pictures",2006
+"1100","Race to Witch Mountain",5.8,1580,2009-03-12,106.3,98,FALSE,50,23.29,"adventure","walt disney pictures",2009
+"1101","The Recruit",6.3,1580,2003-01-31,101.19,115,FALSE,46,13.18,"action","birnbaum / barber productions",2003
+"1102","Dora and the Lost City of Gold",6.7,1574,2019-08-08,120.6,102,FALSE,49,24.13,"adventure","nickelodeon movies",2019
+"1103","Ride Along 2",6.2,1560,2016-01-14,124.83,102,FALSE,40,20.14,"action","reel chefs catering",2016
+"1104","Brüno",5.6,1558,2009-07-08,138.81,83,FALSE,42,13.34,"comedy","universal pictures",2009
+"1105","The Sum of All Fears",6.3,1554,2002-05-31,193.92,124,FALSE,68,23.77,"thriller","paramount",2002
+"1106","The Boxtrolls",6.7,1553,2014-09-10,108.26,97,FALSE,60,18.63,"animation","laika entertainment",2014
+"1107","Dr. Dolittle 2",5.3,1551,2001-06-22,176.1,87,FALSE,70,16.3,"comedy","joseph m. singer entertainment",2001
+"1108","Little Man",5.9,1547,2006-08-31,101.6,98,FALSE,64,52.23,"comedy","wayans bros. entertainment",2006
+"1109","Music and Lyrics",6.4,1544,2007-02-09,145.9,105,FALSE,40,20.55,"comedy","castle rock entertainment",2007
+"1110","The Forbidden Kingdom",6.6,1542,2008-04-18,127.91,104,FALSE,55,31.48,"action","casey silver productions",2008
+"1111","Planes",5.9,1541,2013-08-09,219.79,91,FALSE,50,23.49,"animation","walt disney pictures",2013
+"1112","Made of Honor",6.4,1538,2008-04-30,106.41,101,FALSE,40,16.65,"comedy","columbia pictures",2008
+"1113","World Trade Center",6.1,1533,2006-08-09,163.25,129,FALSE,65,17.96,"drama","paramount",2006
+"1114","Sex and the City 2",6.1,1522,2010-05-26,290.75,146,FALSE,100,19.34,"comedy","village roadshow pictures",2010
+"1115","Monster-in-Law",6.2,1520,2005-05-13,154.75,101,FALSE,43,20.87,"romance","kumar mobiliengesellschaft mbh & co. projekt nr. 1 kg",2005
+"1116","Failure to Launch",5.8,1518,2006-03-10,128.41,97,FALSE,50,15.91,"comedy","failure to launch productions",2006
+"1117","The Cat in the Hat",5.3,1516,2003-11-21,133.8,81,FALSE,109,36.73,"comedy","universal pictures",2003
+"1118","Zookeeper",5.4,1516,2011-07-06,169.85,102,FALSE,80,19.62,"comedy","broken road productions",2011
+"1119","Alvin and the Chipmunks: The Road Chip",6,1516,2015-12-17,233.76,92,FALSE,90,30.21,"adventure","tsg entertainment",2015
+"1120","Talladega Nights: The Ballad of Ricky Bobby",6.3,1514,2006-08-04,162.97,108,FALSE,72.5,18.7,"comedy","apatow productions",2006
+"1121","Hereafter",6.1,1512,2010-10-22,106.96,129,FALSE,50,14.08,"drama","malpaso productions",2010
+"1122","The Angry Birds Movie 2",7.1,1505,2019-08-02,147.79,97,FALSE,65,29.9,"animation","rovio animation",2019
+"1123","Philomena",7.4,1504,2013-11-01,100.13,98,FALSE,12,8.37,"drama","baby cow productions",2013
+"1124","The Heartbreak Kid",5.7,1486,2007-10-05,127.77,116,FALSE,60,19.93,"comedy","conundrum entertainment",2007
+"1125","The Score",6.7,1480,2001-07-13,113.58,124,FALSE,68,17.93,"action","horseshoe bay productions",2001
+"1126","The Peanuts Movie",6.9,1471,2015-11-05,246.23,88,FALSE,99,17.64,"comedy","blue sky studios",2015
+"1127","Sideways",7.1,1471,2004-10-22,109.5,127,FALSE,16,19.85,"comedy","fox searchlight pictures",2004
+"1128","Happy Feet Two",6.1,1471,2011-11-17,150.41,100,FALSE,130,26.84,"animation","dr d studios",2011
+"1129","The Phantom of the Opera",7.3,1469,2004-12-08,154.65,143,FALSE,70,26,"thriller","warner bros. pictures",2004
+"1130","Big Momma's House 2",5.7,1467,2006-01-26,138.26,99,FALSE,40,32.26,"comedy","big lou house productions",2006
+"1131","Jackass Presents: Bad Grandpa",6.1,1454,2013-10-22,151.83,92,FALSE,15,14.38,"comedy","paramount",2013
+"1132","Hide and Seek",6.3,1450,2005-01-27,127.37,101,FALSE,30,18.81,"horror","mbc beteiligungs filmproduktion",2005
+"1133","Something's Gotta Give",6.6,1449,2003-12-12,266.73,128,FALSE,80,17.36,"drama","waverly films",2003
+"1134","Paul Blart: Mall Cop 2",5.1,1444,2015-04-16,107.6,94,FALSE,38,27.56,"action","columbia pictures",2015
+"1135","Bewitched",5,1441,2005-06-21,131.43,102,FALSE,85,15.34,"comedy","bewitched",2005
+"1136","The Muppets",6.7,1434,2011-11-22,165.18,103,FALSE,45,21.84,"comedy","walt disney pictures",2011
+"1137","Legally Blonde 2: Red, White & Blonde",5.6,1429,2003-07-02,124.91,95,FALSE,45,22.64,"comedy","type a films",2003
+"1138","Girls Trip",6.8,1418,2017-07-21,140.38,122,FALSE,19,15.72,"comedy","will packer productions",2017
+"1139","Smallfoot",6.8,1413,2018-09-20,214.12,96,FALSE,80,13.65,"family","warner bros. pictures animation",2018
+"1140","Halloween Ends",6.2,1413,2022-10-12,104.36,111,FALSE,20,45.07,"horror","universal pictures",2022
+"1141","The Cell",6.3,1410,2000-08-17,104.16,107,FALSE,33,14.46,"horror","caro-mcleod",2000
+"1142","Wall Street: Money Never Sleeps",6.1,1392,2010-09-20,134.75,133,FALSE,70,15.62,"drama","pressman film",2010
+"1143","Sweet Home Alabama",6.4,1389,2002-09-26,180.62,108,FALSE,30,18.04,"comedy","touchstone pictures",2002
+"1144","Unfaithful",6.6,1371,2002-05-10,119.14,124,FALSE,50,23.71,"thriller","unfaithful filmproduktion gmbh & co. kg",2002
+"1145","Fool's Gold",5.7,1364,2008-02-07,111.23,112,FALSE,70,16.59,"adventure","de line pictures",2008
+"1146","Intolerable Cruelty",5.9,1355,2003-09-02,119.94,100,FALSE,60,18.3,"comedy","mike zoss productions",2003
+"1147","Sahara",5.9,1337,2005-04-06,119.27,124,FALSE,130,20.6,"action","paramount",2005
+"1148","DC League of Super-Pets",7.3,1336,2022-07-27,203,105,FALSE,90,53.7,"animation","warner bros. pictures animation",2022
+"1149","The Collector",6.6,1326,2009-07-09,114,88,FALSE,3.4,16.09,"horror","imaginarium entertainment group",2009
+"1150","Smurfs: The Lost Village",6.3,1326,2017-03-23,197.18,89,FALSE,60,37.02,"family","kerner entertainment company",2017
+"1151","Charlie Wilson's War",6.5,1326,2007-12-19,119.48,102,FALSE,75,19.32,"comedy","playtone",2007
+"1152","Where the Crawdads Sing",7.6,1322,2022-07-14,144.35,126,FALSE,24,19.64,"drama","3000 pictures",2022
+"1153","The Interpreter",6.3,1320,2005-04-08,162.94,128,FALSE,80,17.63,"crime","mirage enterprises",2005
+"1154","The Mexican",5.9,1301,2001-03-01,147.85,123,FALSE,57,14.72,"action","pistolero productions llc",2001
+"1155","Fahrenheit 9/11",7.1,1301,2004-06-25,222.45,123,FALSE,6,13.98,"documentary","fellowship adventure group",2004
+"1156","Sisters",5.9,1295,2015-12-18,105.01,118,FALSE,30,12.99,"comedy","little stranger",2015
+"1157","It's Complicated",6.5,1282,2009-12-23,219.1,121,FALSE,85,19.25,"comedy","universal pictures",2009
+"1158","Charlotte's Web",6.2,1275,2006-12-07,144,97,FALSE,85,26.34,"comedy","paramount",2006
+"1159","Jackass 3D",6.6,1264,2010-10-15,117.22,99,FALSE,20,14.62,"comedy","mtv films",2010
+"1160","Shaun the Sheep Movie",7,1253,2015-02-05,106.21,85,FALSE,25,15.29,"family","aardman",2015
+"1161","Alexander and the Terrible, Horrible, No Good, Very Bad Day",6.2,1252,2014-10-08,100.65,81,FALSE,28,11.47,"family","walt disney pictures",2014
+"1162","102 Dalmatians",5.5,1249,2000-10-07,183.61,100,FALSE,85,17.78,"family","walt disney pictures",2000
+"1163","Just Married",5.8,1249,2003-01-08,101.56,95,FALSE,18,17.53,"comedy","mediastream dritte film gmbh & co. beteiligungs kg",2003
+"1164","You, Me and Dupree",5.6,1244,2006-07-13,130.63,108,FALSE,54,11.09,"comedy","mmcb film produktion 2004",2006
+"1165","Space Cowboys",6.4,1237,2000-08-04,128.88,130,FALSE,65,14.65,"action","digital image associates",2000
+"1166","The Best Exotic Marigold Hotel",6.9,1229,2012-02-23,136.84,124,FALSE,10,13.21,"drama","participant",2012
+"1167","Annie",6.2,1216,2014-12-19,133.82,119,FALSE,65,28.47,"comedy","marcy media",2014
+"1168","The Stepford Wives",5.7,1209,2004-06-10,102,93,FALSE,90,121.66,"comedy","de line pictures",2004
+"1169","Nutty Professor II: The Klumps",5,1195,2000-07-27,123.31,106,FALSE,84,18.46,"fantasy","universal pictures",2000
+"1170","The Queen",6.9,1191,2006-09-15,123.38,103,FALSE,15,13.32,"drama","granada productions",2006
+"1171","Save the Last Dance",6.5,1190,2001-01-12,131.71,113,FALSE,13,20.26,"drama","mtv films",2001
+"1172","The Santa Clause 2",5.9,1174,2002-10-31,172.84,104,FALSE,65,14.97,"fantasy","walt disney pictures",2002
+"1173","Mission: Impossible - Dead Reckoning Part One",7.7,1171,2023-07-08,563.15,164,FALSE,291,401.08,"action","paramount",2023
+"1174","Shaft",6,1162,2000-06-15,107.63,99,FALSE,46,19,"action","paramount",2000
+"1175","Insidious: The Red Door",6.8,1161,2023-07-05,185.58,107,FALSE,16,305.9,"horror","blumhouse productions",2023
+"1176","The Addams Family 2",7,1152,2021-10-01,119.82,93,FALSE,0,36.13,"animation","metro-goldwyn-mayer",2021
+"1177","PAW Patrol: The Movie",7.4,1142,2021-08-09,144.33,86,FALSE,26,217.61,"animation","spin master",2021
+"1178","Tammy",5.3,1140,2014-07-02,100.53,97,FALSE,20,14.58,"comedy","gary sanchez productions",2014
+"1179","The Upside",7.1,1126,2019-01-10,125,126,FALSE,37.5,26.95,"comedy","escape artists",2019
+"1180","Hop",5.7,1121,2011-03-30,183.95,95,FALSE,63,16.2,"animation","illumination",2011
+"1181","Shall We Dance?",6.4,1115,2004-10-15,170.13,107,FALSE,50,13.44,"drama","miramax",2004
+"1182","About Schmidt",6.8,1105,2002-12-12,105.83,125,FALSE,30,15.25,"drama","avery pix",2002
+"1183","Captain Underpants: The First Epic Movie",6.2,1105,2017-06-01,125.43,89,FALSE,38,21.19,"action","dreamworks animation",2017
+"1184","U-571",6.5,1089,2000-04-20,127.67,116,FALSE,62,32.43,"war","canal plus image international",2000
+"1185","Hidalgo",6.8,1077,2004-02-04,108.1,136,FALSE,100,14.36,"western","touchstone pictures",2004
+"1186","Nim's Island",5.9,1066,2008-04-03,100.1,96,FALSE,37,12.44,"adventure","walden media",2008
+"1187","The Jungle Book 2",5.9,1063,2003-02-07,135.68,72,FALSE,20,25.17,"family","disneytoon studios",2003
+"1188","The Dukes of Hazzard",5.5,1061,2005-08-05,110.8,104,FALSE,50,19.85,"comedy","wv films iii",2005
+"1189","My Bloody Valentine",5.5,1047,2009-01-16,102.84,101,FALSE,15,19.12,"mystery","lionsgate",2009
+"1190","The Good Shepherd",6.3,1043,2006-12-11,100.27,167,FALSE,85,21.99,"drama","morgan creek",2006
+"1191","The Forgotten",5.9,1041,2004-09-24,117.59,91,FALSE,42,16.88,"thriller","visual arts entertainment",2004
+"1192","Downton Abbey",7.1,1027,2019-09-12,192.2,122,FALSE,20,14.07,"drama","focus features",2019
+"1193","Blue Beetle",7.1,1023,2023-08-16,124.82,128,FALSE,120,2994.36,"action","warner bros. pictures",2023
+"1194","Four Christmases",5.8,1016,2008-11-26,164.11,88,FALSE,80,12.82,"comedy","ott medien",2008
+"1195","The Pirates! In an Adventure with Scientists!",6.4,986,2012-03-12,123.05,88,FALSE,60,16.5,"animation","aardman",2012
+"1196","Barnyard",5.8,981,2006-08-04,116.48,90,FALSE,51,27.19,"animation","o entertainment",2006
+"1197","Beverly Hills Chihuahua",5.3,974,2008-10-03,149.28,91,FALSE,20,19.42,"comedy","walt disney pictures",2008
+"1198","The Wild",5.5,973,2006-04-06,102.34,95,FALSE,80,24.17,"family","walt disney pictures",2006
+"1199","Sanctum",6,960,2011-02-03,108.61,108,FALSE,30,15.5,"action","universal pictures",2011
+"1200","The Omen",5.6,959,2006-06-06,119.98,110,FALSE,25,17.73,"horror","20th century fox",2006
+"1201","The Water Horse",6.4,957,2007-12-25,103.07,112,FALSE,40,25.3,"family","revolution studios",2007
+"1202","Vertical Limit",6,939,2000-12-08,215.66,124,FALSE,75,19.85,"adventure","global medien kg",2000
+"1203","Dreamgirls",6.8,927,2006-12-25,154.94,134,FALSE,70,17.63,"drama","laurence mark productions",2006
+"1204","The Lego Ninjago Movie",6.5,926,2017-09-21,123.08,101,FALSE,70,18.72,"family","lin pictures",2017
+"1205","The Nut Job",5.8,881,2014-01-17,122.53,85,FALSE,42,16.42,"animation","open road films",2014
+"1206","The Kid",6.5,867,2000-07-07,110.32,104,FALSE,65,15.71,"fantasy","walt disney pictures",2000
+"1207","Ticket to Paradise",6.6,840,2022-09-08,168.76,104,FALSE,20,20.57,"comedy","working title films",2022
+"1208","Guess Who",6,834,2005-03-25,103.12,105,FALSE,35,11.72,"comedy","columbia pictures",2005
+"1209","Don't Say a Word",6.2,826,2001-09-28,100.02,113,FALSE,50,18.26,"thriller","20th century fox",2001
+"1210","This Is It",7.2,823,2009-10-28,261.2,111,FALSE,60,14.01,"music","columbia pictures",2009
+"1211","Yogi Bear",5.6,810,2010-12-17,203.51,80,FALSE,80,17.38,"comedy","sunswept entertainment",2010
+"1212","Hotel for Dogs",6,810,2009-01-16,117,100,FALSE,35,17.9,"comedy","the donners' company",2009
+"1213","Planes: Fire & Rescue",6.1,773,2014-07-17,151.17,83,FALSE,50,18.41,"animation","disney television animation",2014
+"1214","America's Sweethearts",5.7,752,2001-07-17,138.19,102,FALSE,64.4,12.43,"comedy","columbia pictures",2001
+"1215","Seabiscuit",7,751,2003-07-22,148.34,141,FALSE,87,16.02,"drama","touchstone pictures",2003
+"1216","The Devil Inside",4.7,722,2012-01-06,101.76,83,FALSE,1,12.97,"thriller","room 101",2012
+"1217","Hope Springs",6.3,720,2012-08-07,114.28,100,FALSE,30,14.67,"drama","columbia pictures",2012
+"1218","Free Birds",5.9,714,2013-10-30,110,91,FALSE,55,17.42,"animation","reel fx creative studios",2013
+"1219","Peter Rabbit 2: The Runaway",7.2,714,2021-03-25,153,93,FALSE,45,27.24,"family","columbia pictures",2021
+"1220","Heaven Is for Real",6.7,704,2014-04-16,101.33,99,FALSE,12,39.57,"drama","tristar pictures",2014
+"1221","Gran Turismo",8.1,702,2023-08-09,114.8,135,FALSE,60,2680.59,"action","playstation productions",2023
+"1222","Bringing Down the House",6,654,2003-03-07,132.68,105,FALSE,20,17.43,"comedy","touchstone pictures",2003
+"1223","Teenage Mutant Ninja Turtles: Mutant Mayhem",7.3,652,2023-07-31,172,100,FALSE,70,484.88,"animation","paramount",2023
+"1224","Wonder Park",6.5,643,2019-03-13,119.56,86,FALSE,100,18.74,"comedy","nickelodeon movies",2019
+"1225","Cats & Dogs: The Revenge of Kitty Galore",5.2,582,2010-07-29,112.48,82,FALSE,85,19.85,"family","village roadshow pictures",2010
+"1226","Sound of Freedom",8,503,2023-07-03,212.59,131,FALSE,15,1111.04,"action","santa fe films",2023
+"1227","Lyle, Lyle, Crocodile",7.2,465,2022-10-07,104.09,106,FALSE,50,45.93,"comedy","eagle pictures",2022
+"1228","Parental Guidance",5.9,439,2012-12-25,119.77,104,FALSE,25,15.02,"comedy","dune entertainment iii",2012
+"1229","Walking with Dinosaurs",6.1,435,2013-12-18,126.55,87,FALSE,80,20.36,"animation","reliance big entertainment",2013
+"1230","Rugrats in Paris: The Movie",6.6,424,2000-11-17,103.29,78,FALSE,30,20.54,"family","paramount",2000
+"1231","The Nun II",6.5,365,2023-09-06,231.2,110,FALSE,38.5,1692.78,"horror","new line cinema",2023
+"1232","Earth",7.6,326,2007-10-10,109,90,FALSE,15,10.18,"documentary","disneynature",2007
+"1233","The Equalizer 3",6.9,251,2023-08-30,158.3,109,FALSE,70,359.24,"action","escape artists",2023
+"1234","Bel Canto",5.4,111,2018-09-13,176.75,100,FALSE,0,7.68,"drama","a-line pictures",2018
+"1235","WWE WrestleMania 31",8,103,2015-03-29,139,240,FALSE,0,6.9,"action","wwe home video",2015
+"1236","Baywatch: Hawaiian Wedding",6,55,2003-02-28,136,100,FALSE,5.5,7.82,"action","fox television studios",2003
+"1237","Space Station 3D",6.4,41,2002-04-17,163.33,47,FALSE,0,5.59,"documentary","imax",2002
+"1238","Spice Girls: The Return of the Spice Girls Tour",7.8,6,2007-12-02,107.2,106,FALSE,0,1.83,"music","19 entertainment",2007
+"1239","The Visual Effects of 'Scary Movie 4'",4.3,3,2006-04-20,178.26,0,FALSE,45,8.5,NA,NA,2006
+"1240","Binsu: Hīrōtaimu",10,2,2020-10-10,125.54,120,FALSE,50,0.6,"action",NA,2020
+"1241","Watchmen:(The Ultimate Cut)",9,2,2009-03-06,185,215,FALSE,130,2.83,"action","paramount",2009
+"1242","DeAD",5,2,2013-02-10,201.1,104,FALSE,0,1.4,"comedy","skalar film",2013
+"1243","Metallica: WorldWired Tour - Live in Manchester, England - June 18, 2019",10,1,2020-06-08,426.9,150,FALSE,0,1.59,"music",NA,2020
+"1244","Alha Sahma",10,1,2019-04-12,500,7,FALSE,0,0.6,NA,NA,2019
+"1245","Zack Snyder’s Shark Tale",10,1,2024-03-17,270,288,FALSE,0,0,"comedy","dreamworks animation",2024
+"1246","Vacancy",10,1,2018-05-26,903.4,6,FALSE,1,0.6,"mystery","movie bros.",2018
+"1247","Apex Legends: The Movie",10,1,2023-06-16,106.46,192,TRUE,175,0,"action","digital one",2023
