@@ -66,7 +66,6 @@ tmdb_clean <- tmdb_clean %>%
   filter(release_year >= '2000' & release_year <= '2024')
 
 
-
 # Convert revenue to millions
 tmdb_clean$revenue <- tmdb_clean$revenue / 1e6
 
@@ -94,7 +93,6 @@ imdb_clean$revenue_opening_weekend <- round(imdb_clean$revenue_opening_weekend, 
 imdb_clean$revenue_worldwide <- round(imdb_clean$revenue_worldwide, 2)
 imdb_clean$revenue_north_america <- round(imdb_clean$revenue_north_america, 2)
 imdb_clean$budget <- round(imdb_clean$budget, 2)
-
 
 tmdb_clean$vote_count <- round(tmdb_clean$vote_count, 1)
 tmdb_clean$vote_average <- round(tmdb_clean$vote_average, 1)
@@ -136,8 +134,6 @@ tmdb_clean <- tmdb_clean %>%
   mutate(across(starts_with("prod"), ~ trimws(tolower(.))))
 
 
-
-
 # remove tmdb columns
 tmdb_clean <- tmdb_clean %>%
   select(-prod_2, -prod_3, -prod_4, -prod_5, -prod_6,  -genre_2, -genre_3, -genre_4, -genre_5, -genre_6,-status,-original_language, -original_title)
@@ -153,8 +149,6 @@ tmdb_clean <- tmdb_clean %>%
 # remove imdb genre columns
 imdb_clean <- imdb_clean %>%
   select( -genre_2, -genre_3)
-
-
 
 
 
@@ -189,13 +183,14 @@ duplicate_counts <- imdb_clean %>%
 
 
 
-
-
-
 # Check distribution
 plot_histogram(tmdb_clean)
 plot_histogram(imdb_clean)
 
+
+
+write.csv(tmdb_clean, "tmdb.csv")
+write.csv(imdb_clean, "imdb.csv")
 
 
 # Full join of tmdb and imdb datasets
